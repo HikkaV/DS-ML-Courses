@@ -20,7 +20,7 @@ Notes about the course
 ^^^^^^^^^^^^^^^^^^^^^^
 The course will use Python 3.7 and Jupyter Notebook as main tools for conducting exercises. If you're note familiar with Jupyter Notebook, fill free to checkout this tutorial : somelink. 
 
- .. note:: <Currently the course doesn't provide any testing of the exercises, but it will be added in near future.>
+ .. note:: Currently the course doesn't provide any testing of the exercises, but it will be added in near future.
 
 Basic knowledge requirments
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
