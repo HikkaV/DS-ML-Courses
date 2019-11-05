@@ -18,13 +18,14 @@ Welcome to Machine Learning & Data Science with Python basic course. The main pu
 
 Notes about the course
 ^^^^^^^^^^^^^^^^^^^^^^
-The course will use Python 3.7 and Jupyter Notebook as main tools for conducting exercises. If you're note familiar with Jupyter Notebook, fill free to checkout this tutorial : somelink. 
+The course will use Python 3.7 and Jupyter Notebook as main tools for conducting exercises. If you're note familiar with Jupyter Notebook, fill free to checkout this `tutorial <https://www.dataquest.io/blog/jupyter-notebook-tutorial/>`_ . All the work on excersises is mainted on the students' server, if you want to do them on your local machine you can find the related information in :doc:`faq <faq>`. 
+
 
  .. note:: Currently the course doesn't provide any testing of the exercises, but it will be added in near future.
 
 Basic knowledge requirments
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-The course requires basic knowledge of Python along with its core concepts. In addition intermediate knowledge of English or at least understanding of its technical vocabulary is mandatory. 
+The course requires basic knowledge of Python along with its core concepts. In addition an intermediate knowledge of English or at least understanding of its technical vocabulary is mandatory. 
 
 
 .. toctree::
@@ -34,6 +35,7 @@ The course requires basic knowledge of Python along with its core concepts. In a
    info
    datascience
    machinelearning
+   faq
 
 
 Indices and tables
