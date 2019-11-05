@@ -6,19 +6,20 @@ Welcome to Machine Learning & Data Science with Python basic course. The main pu
 
 |  Firstly, the basics of Data Science with Python are obeserved, as general data analysis, its processing and understanding along with the knowledge of how to represent it effectivly is crucial for any machine learning practioner. What is more, sometimes its benefitial to firstly try some statistical methods of solving the particular problem, before diving into more complicated ML stuff. In addition some open source packages for working with data and scientific calculus are introduced: 
 
-* Numpy 
-* Pandas 
-* Matplotlib
+* `Numpy <https://numpy.org/>`_ 
+* `Pandas <https://pandas.pydata.org/>`_ 
+* `Matplotlib <https://matplotlib.org/>`_
+* `Seaborn <https://seaborn.pydata.org/>`_
 
 |  As the second part of course, students will have a hands on introduction to basic machine learning algorithms and core machine learning concepts. The course won't dig in depth of the algorithms's work, but we badly encourage you to checkout useful references that can be found in this wiki. Finally, the students will have a chance to work with such packages as: 
 
-* Scikit-learn 
-* Keras 
-* Tensorflow
+* `Scikit learn <https://scikit-learn.org/stable/>`_ 
+* `Keras <https://keras.io/>`_ 
+* `Tensorflow <https://www.tensorflow.org/>`_
 
 Notes about the course
 ^^^^^^^^^^^^^^^^^^^^^^
-The course will use Python 3.7 and Jupyter Notebook as main tools for conducting exercises. If you're note familiar with Jupyter Notebook, fill free to checkout this `tutorial <https://www.dataquest.io/blog/jupyter-notebook-tutorial/>`_ . All the work on excersises is mainted on the students' server, if you want to do them on your local machine you can find the related information in :doc:`faq <faq>`. 
+The course will use Python 3.7 and Jupyter Notebook as main tools for conducting exercises. If you're note familiar with Jupyter Notebook, fill free to checkout this `tutorial <https://www.dataquest.io/blog/jupyter-notebook-tutorial/>`_. All the work on excersises is mainted on the students' server, if you want to do them on your local machine you can find the related information in :doc:`FAQ <faq>`. 
 
 
  .. note:: Currently the course doesn't provide any testing of the exercises, but it will be added in near future.
@@ -37,10 +38,3 @@ The course requires basic knowledge of Python along with its core concepts. In a
    machinelearning
    faq
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
