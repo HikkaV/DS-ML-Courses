@@ -11,7 +11,7 @@ Welcome to Machine Learning & Data Science with Python basic course. The main pu
 * `Matplotlib <https://matplotlib.org/>`_
 * `Seaborn <https://seaborn.pydata.org/>`_
 
-|  As the second part of course, students will have a hands on introduction to basic machine learning algorithms and core machine learning concepts. The course won't dig in depth of the algorithms's work, but we badly encourage you to checkout useful references that can be found in this wiki. Finally, the students will have a chance to work with such packages as: 
+|  As the second part of course, students will have a hands on introduction to basic machine learning algorithms and core machine learning concepts. The course won't dig in depth of the algorithms' work, but we badly encourage you to checkout useful references that can be found in this wiki. Finally, the students will have a chance to work with such packages as: 
 
 * `Scikit learn <https://scikit-learn.org/stable/>`_ 
 * `Keras <https://keras.io/>`_ 
