@@ -31,6 +31,6 @@ The are three main types of learning :
 
 | In classification problem the answer (`sometimes called the target`) is a categorical label/class and the task of the algorithm (`sometimes called the classifier or the model`) is to classify the sample/object depending on the features of relevant data.  
 
-.. image:: classical_ml.png
+.. image:: classical_ml.jpg
   :width: 500
   :alt: The tree of classical machine learning
