@@ -13,7 +13,7 @@ Machine learning
 | The picture describing this main difference is pinned below.
 
 .. image:: rules_data.png
-  :width: 500
+  :width: 800
   :alt: Difference between machine learning and traditional programming
 
  
@@ -32,5 +32,5 @@ The are three main types of learning :
 | In classification problem the answer (`sometimes called the target`) is a categorical label/class and the task of the algorithm (`sometimes called the classifier or the model`) is to classify the sample/object depending on the features of relevant data.  
 
 .. image:: classical_ml.jpg
-  :width: 500
+  :width: 800
   :alt: The tree of classical machine learning
