@@ -16,7 +16,8 @@ Machine learning
   :width: 400
   :alt: Difference between machine learning and traditional programming
 
- The are three main types of learning : 
+ 
+The are three main types of learning : 
  
  * *Supervised learning*
  * *Unsupervised learning*
