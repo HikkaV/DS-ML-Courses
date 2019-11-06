@@ -28,6 +28,12 @@ Basic knowledge requirments
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The course requires basic knowledge of Python along with its core concepts. In addition an intermediate knowledge of English or at least understanding of its technical vocabulary is mandatory. 
 
+Support
+^^^^^^^
+
+As the project is an open sourse one, anyone can contribute to it, so feel free to join development discussion :
+
+* On github page of the  `project <https://github.com/HikkaV/VNTU-ML-Courses>`_
 
 .. toctree::
    :maxdepth: 3
