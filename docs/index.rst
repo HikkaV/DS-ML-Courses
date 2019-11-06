@@ -1,4 +1,4 @@
-Machine Learning & Data Science with Python basic course.
+Machine Learning & Data Science with Python basic course
 =================================================================
 Introduction
 ^^^^^^^^^^^^
@@ -19,7 +19,7 @@ Welcome to Machine Learning & Data Science with Python basic course. The main pu
 
 Notes about the course
 ^^^^^^^^^^^^^^^^^^^^^^
-The course will use Python 3.7 and Jupyter Notebook as main tools for conducting exercises. If you're note familiar with Jupyter Notebook, fill free to checkout this `tutorial <https://www.dataquest.io/blog/jupyter-notebook-tutorial/>`_. All the work on excersises is mainted on the students' server, if you want to do them on your local machine you can find the related information in :doc:`FAQ <faq>`. 
+The course will use Python 3.7 and Jupyter Notebook as main tools for conducting exercises. If you're note familiar with Jupyter Notebook, fill free to checkout this `tutorial <https://www.dataquest.io/blog/jupyter-notebook-tutorial/>`_. The course in VNTU students' oriented, thus all the work on exercises is mainted on students's server, if you aren't VNTU student or you want to do exercises on your local machine you can find the related information in :doc:`FAQ <faq>`. 
 
 
  .. note:: Currently the course doesn't provide any testing of the exercises, but it will be added in near future.
@@ -39,6 +39,7 @@ As the project is an open sourse one, anyone can contribute to it, so feel free 
    :maxdepth: 3
    :caption: Context:
    
+   howtostart
    info
    datascience
    machinelearning
