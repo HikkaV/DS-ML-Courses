@@ -30,3 +30,7 @@ The are three main types of learning :
 *Supervised learning* - is a type of machine learning, when given a data/features  (by notation `X`) and coressponding answers/labels (by notation `Y`) an algorithm learns a complex function to map data/features to answers/labels. There are lots of useful application concerning supervised learning, for instance : imge classification, fraud detection, object recognition, face varification, weather forecast, etc. The supervised learning is divided into two types of problems : *regresion* and *classification*.  
 
 | In classification problem the answer (`sometimes called the target`) is a categorical label/class and the task of the algorithm (`sometimes called the classifier or the model`) is to classify the sample/object depending on the features of relevant data.  
+
+.. image:: classical_ml.png
+  :width: 500
+  :alt: The tree of classical machine learning
