@@ -23,4 +23,4 @@ The are three main types of learning :
  * *Unsupervised learning*
  * *Reinforcement learning*
 
-*Supervised learning* - is a type of machine learning, when given a data/features  (by notation `X`) and coressponding answers/labels (by notation 'Y') an algorithm learns a complex function to map data/features to labels.  
+*Supervised learning* - is a type of machine learning, when given a data/features  (by notation `X`) and coressponding answers/labels (by notation `Y`) an algorithm learns a complex function to map data/features to labels.  
