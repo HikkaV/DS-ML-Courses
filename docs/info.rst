@@ -5,7 +5,7 @@ In this section you will get to know the key notions that will be used throught 
 
 Data science
 ^^^^^^^^^^^^
-Data science - is a field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structered and unstructered data. Data science is a field that combines statistics, data analysis and machine learning to understand and analyse the data. Nowadays data science is one of the most demanding professions in sphere of IT, as the contemporary world is a data driven one. The main duties of every data scientists include : analysis of data, it's preprocessing, cleaning and transformation and finally extracting sense from it using statistical and machine learning techniques.
+Data science - is a field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structered and unstructered data. Data science is a field that combines statistics, data analysis and machine learning to understand and analyse the data. Nowadays data science is one of the most demanding professions in sphere of IT, as the contemporary world is a data driven one. The main duties of every data scientists include : analysis of data, it's preprocessing, cleaning and transformation and finally extracting sense from it using statistical and machine learning techniques. As the core of data science is statistics and mathematics, the related part of the course is focused on teaching how to apply the techniques of highlited spheres to solve real world problems.
 
 .. image:: datascience.png
   :width: 800
