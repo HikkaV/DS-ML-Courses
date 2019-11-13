@@ -72,3 +72,12 @@ To undestand the difference between supervised and usupervised learning let's co
 
 | You will have a chance to work with both supervised and unsupervised learning techniques and dig deeper into core concepts of machine learning further in this course. 
 
+Python
+^^^^^^
+
+Why use Python for machine learning and data science stuff? The answer is pretty obvious, because it's much simpler, much faster and finally much more efficient to do this heavy job using the exposed programming language. Python scientific packages such as scipy, numpy, pandas and others allow conducting complex mathematics computations and statistics calculus in few lines of code giving analysts and researchers a possibility to easily make analysis and developing new algorithms. What is more, Python is usually used in production solutions, thus you can easily refactor your draft code for (let's say) processing of the data  and then scale it up to production system.
+
+Despite the fact that in this course you won't write the production ready code, you will get to know how to use Python for basic analysis and machine learning that will give you the mandatory skills to continue learning and developing in data sciense area. 
+
+
+
