@@ -9,7 +9,7 @@ Welcome to the machine learning part of this course in which you will learn how 
 .. toctree::
    :maxdepth: 3
    :caption: Parts:
-
+   :name: supervised
    supervised
    unsupervised
    
