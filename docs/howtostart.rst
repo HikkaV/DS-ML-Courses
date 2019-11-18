@@ -1,2 +1,2 @@
-How to start with Jupyter Server
-================================
+How to start with Google Colaboratory
+=====================================
