@@ -33,7 +33,9 @@ pygments_style = 'sphinx'
 extensions = ['sphinx.ext.autosectionlabel',             
 'sphinxmark',
 'nbsphinx',
-'sphinx.ext.mathjax']
+'sphinx.ext.mathjax',
+'sphinx.ext.imgmath',
+'sphinx.ext.mathbase']
 sphinxmark_enable = True
 
 # Add any paths that contain templates here, relative to this directory.
