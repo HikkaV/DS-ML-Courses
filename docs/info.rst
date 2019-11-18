@@ -79,7 +79,7 @@ Why use Python for machine learning and data science stuff? The answer is pretty
 
 Despite the fact that in this course you won't write the production ready code, you will get to know how to use Python for basic analysis and machine learning that will give you the mandatory skills to continue learning and developing in data sciense area. Finally, to persuade you in the fact that Python is the language you should really use, let's look at the chart showing the popularity of languages for the current year : 
 
-.. image:: lan_comparision.png
+.. image:: lan_comparision.jpg
   :width: 800
   :alt: Language comparision for 2019
 
