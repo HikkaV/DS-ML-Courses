@@ -1,7 +1,6 @@
 Description
 ===========
-.. image:: https://colab.research.google.com/assets/colab-badge.svg
-   :target: https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb
+
 In this section you will get to know the key notions that will be used throught the course.
 
 Data science
@@ -78,7 +77,13 @@ Python
 
 Why use Python for machine learning and data science stuff? The answer is pretty obvious, because it's much simpler, much faster and finally much more efficient to do this heavy job using the exposed programming language. Python scientific packages such as scipy, numpy, pandas and others allow conducting complex mathematics computations and statistics calculus in few lines of code giving analysts and researchers a possibility to easily make analysis and developing new algorithms. What is more, Python is usually used in production solutions, thus you can easily refactor your draft code for (let's say) processing of the data  and then scale it up to production system.
 
-Despite the fact that in this course you won't write the production ready code, you will get to know how to use Python for basic analysis and machine learning that will give you the mandatory skills to continue learning and developing in data sciense area. 
+Despite the fact that in this course you won't write the production ready code, you will get to know how to use Python for basic analysis and machine learning that will give you the mandatory skills to continue learning and developing in data sciense area. Finally, to persuade you in the fact that Python is the language you should really use, let's look at the chart showing the popularity of languages for the current year : 
 
+.. image:: lan_comparision.png
+  :width: 800
+  :alt: Language comparision for 2019
+
+
+Based on the diagram shown below, Python is the most popular language at the moment, just analytics, nothing personal.
 
 
