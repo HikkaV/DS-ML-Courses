@@ -27,7 +27,7 @@ Basics of linear regression and loss functions
   :width: 200
   :align: center
   :alt:  Linear regression formula
- 
+
 
 .. note:: There are other loss functions you can use for regression tasks as MAE (Mean Absolute Error), but throuout this part of course we will use MSE to validate our model. 
 
@@ -52,5 +52,5 @@ Train/Test Split
   :width: 150
   :align: right
   :alt:  Assignment 1
- 
+
 
