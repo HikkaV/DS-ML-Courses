@@ -62,8 +62,8 @@ Train/Test Split
 | When we use train/test split the good practice is to push 75-80% in train set and 25-20% to test set. 
 
 
-Model evaluation
-================
+Model evaluation/validation
+===========================
 
 After we trained the model on our train data, what is the next step? Well, the one option is to see the perfomance of this model on test data in order to understand if the model learned to generalize to new data instances. While working with regression we will use only one metric to evaluate and validate the perfomance of our algorithm named MSE (Mean Squared Error). There is also a practice of comparing perfomance on train data with perfomance on test one. If the perfomance on train data is better than on test, then it is a signal of model overfitting on train data. If the perfomance on train data is bad, it means that model is underfitting. We will examine both cases later in the assignments, but a key thing to understand is the fact that you need to evaluate your model on an unseen data to estimate if it's ready for real usage. 
  
