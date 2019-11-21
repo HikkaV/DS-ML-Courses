@@ -75,7 +75,7 @@ After we trained the model on our train data, what is the next step? Well, the o
 Description of assignment
 =========================
 
-.. note:: Currently assignments are available only in the interactive mode, but you can change the notebook however you want. 
+.. note:: Currently assignments are available only in the interactive mode, but you can change the notebook whatever you want. 
 
 In this assignment you will work with boston housing prices dataset that is available via sklearn.datasets package. As the data features and targets are already scaled and the data is cleaned, minimum efforts are required to process it. As it's your first assignment you will use only two features (number of rooms and average distance to center) to train a model and make predictions. After processing, you will visualize the dependecy between two highlited features in order to get some insights about the data. Then you will split the data into train and test subsets. Finally, you will create a linear regression model, train it on train data and evaluate on test one. With all this said, let's get started.  
 
