@@ -48,10 +48,10 @@ Transfering and processing of data
 | In most of cases the perfomance of the algorithm depends on the quality of data, thus it's mandatory to examine and process it. First thing to check is if some data records are missing, if yes you should drop them from our data. The second thing is to varify that your feature is of the same type for all the data samples, if not - you should make some processing of it in order to cast everything to one type. In scenario of regression people encounter numeric data and sometimes it's really usefull to scale it down. Let's say you have a price (the target value we try to predict) presented as thousands of dollars : 40000$, 20000$ and so on; then if you calculate MSE on it, you will see a huge score that isn't representitive (we want MSE score to be as small as possible). One option to solve this problem is to scale down the price by dividing it by 1000, then instead of 40000 we will have 4000 and so on. Moreover features should be on the same small scale as it has a big effect on training of the algorithm. 
 
 
-Train/Test Split
-================
+Train/Test split and model validation
+=====================================
 
-| Let's say we defined our classifier and prepared the data, but what should we do after? What data should we train the model on? Should we take all the data and just feed it to the classifier or there is some other process behind it? Actually, training the classifier on all the data can be useful in some custom cases, but frankly speeking that's not a great idea. *In machine learning workflow you need somehow understand if your model is good or bad. If you train your model on all the data you will see its perfomance that is related to learning only, but the fact we are really interested in is the perfomance on unseen real world data, as we train our algorithm to then use it for predictions*. Thus we need to somehow split our data into two parts (there is also a practice to split data into three parts train/validation/test, but for now we will use only train/test split) train data - the data we will use to train our model and test data - the one we will use to validate our model. 
+| Let's say we defined our classifier and prepared the data, but what should we do after? What data should we train the model on? Should we take all the data and just feed it to the classifier or there is some other process behind it? Actually, training the classifier on all the data can be useful in some custom cases, but frankly speeking that's not a great idea. *In machine learning workflow you need somehow understand if your model is good or bad. If you train your model on all the data you will see its perfomance that is related to learning only, but the fact we are really interested in is the perfomance on unseen real world data, as we train our algorithm to then use it for predictions*. Thus we need to somehow split our data into two parts (there is also a practice to split data into three parts train/validation/test, but for now we will use only train/test split) train data - the data we will use to train our model and test data - the one we will use to validate our model.  While working with regression we will use only one metric named MSE (Mean Squared Error) to validate the perfomance of our algorithm. There is also a practice of comparing perfomance on train data with perfomance on test one. If the perfomance on train data is better than on test, then it is a signal of model overfitting on train data. If the perfomance on train data is bad, it means that model is underfitting. We will examine both cases later in the assignments, but a key thing to understand is the fact that you need to evaluate your model on an unseen data to estimate if it's ready for real usage. 
 
 
 .. image:: traintest.png
@@ -61,16 +61,6 @@ Train/Test Split
 
 | When we use train/test split the good practice is to push 75-80% in train set and 25-20% to test set. 
 
-
-Model evaluation/validation
-===========================
-
-After we trained the model on our train data, what is the next step? Well, the one option is to see the perfomance of this model on test data in order to understand if the model learned to generalize to new data instances. While working with regression we will use only one metric to evaluate and validate the perfomance of our algorithm named MSE (Mean Squared Error). There is also a practice of comparing perfomance on train data with perfomance on test one. If the perfomance on train data is better than on test, then it is a signal of model overfitting on train data. If the perfomance on train data is bad, it means that model is underfitting. We will examine both cases later in the assignments, but a key thing to understand is the fact that you need to evaluate your model on an unseen data to estimate if it's ready for real usage. 
- 
-.. image:: workflow.jpeg
-   :width: 400
-   :align: center
-   :alt: Workflow
 
 Description of assignment
 =========================
