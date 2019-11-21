@@ -29,7 +29,8 @@ Basics of linear regression and loss functions
  
 .. rubric:: MSE (Mean Squared Error): 
 
- .. image:: mse.png
+
+.. image:: mse.png
   :width: 200
   :align: center
   :alt:  Linear regression formula
