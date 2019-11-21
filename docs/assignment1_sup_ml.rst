@@ -27,9 +27,9 @@ Basics of linear regression and loss functions
 
 | How does a loss function look like? Well, loss functions can differ depending on the problem the classifier should solve, but for regression tasks we will consider the following :
  
- .. rubric:: MSE (Mean Squared Error): 
+.. rubric:: MSE (Mean Squared Error): 
 
-.. image:: mse.png
+ .. image:: mse.png
   :width: 200
   :align: center
   :alt:  Linear regression formula
