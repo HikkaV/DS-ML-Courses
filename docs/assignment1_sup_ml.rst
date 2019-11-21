@@ -5,10 +5,16 @@ Basics of linear regression and loss functions
 
 | Speaking about machine learning, the best practice is to start with a basic simple algorithm and master core ideas using it. Before speaking about the particular model we are going to consider, you should understand that the key purpose of every machine learning model is to find a complex function that will do the compex stuff implied by the data. The classifier we will speak about is called *linear regression*.  As the name implies this model is used for regression and the function it tries to learn is a linear one. The mathematical view of this function is the following : 
 .. image:: linearform.png
-  :width: 200
+  :width: 150
   :align: center
   :alt:  Linear regression formula
 
+| The graphical view of this function is the following :
+
+..image:: reg.png
+  :width: 400
+  :align: center
+  :alt: Linear regression 
 | Here y - is a predicted discreate number, x - is a feature, W and b - parameters which the model tries to learn (they actually represent the templates learned by model to make different decisions). If we have more than one feature, for example to predict the house's price we have not just the number of rooms, but also the distance to the center to the city, the equation above will transform to this view : 
 .. image:: linearform2.png
   :width: 200
@@ -54,11 +60,25 @@ Train/Test Split
 | When we use train/test split the good practice is to push 75-80% in train set and 25-20% to test set. 
 
 
+Model evaluation
+================
+
+After we trained the model on our train data, what is the next step? Well, the one option is to see the perfomance of this model on test data in order to understand if the model learned to generalize to new data instances. While working with regression we will use only one metric to evaluate and validate the perfomance of our algorithm named MSE (Mean Squared Error). There is also a practice of comparing perfomance on train data with perfomance on test one. If the perfomance on train data is better than on test, then it is a signal of model overfitting on train data. If the perfomance on train data is bad, it means that model is underfitting. We will examine both cases later in the assignments, but a key thing to understand is the fact that you need to evaluate your model on an unseen data to estimate if it's ready for real usage. 
+ 
+.. image:: workflow.jpeg
+   :width: 400
+   :align: center
+   :alt: Workflow
+
+Description of assignment
+=========================
+
+.. note:: Currently assignments are available only in the interactive mode, but you can change the notebook however you want. 
+
+In this assignment you will work with boston housing prices dataset that is available via sklearn.datasets package. As the data features and targets are already scaled and the data is cleaned, minimum efforts are required to process it. As it's your first assignment you will use only two features (number of rooms and average distance to center) to train a model and make predictions. After processing, you will visualize the dependecy between two highlited features in order to get some insights about the data. Then you will split the data into train and test subsets. Finally, you will create a linear regression model, train it on train data and evaluate on test one. With all this said, let's get started.  
+
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/machine_learning/assignment_1/assignment_1.ipynb
   :width: 150
   :align: right
   :alt:  Assignment 1
-
-
-
