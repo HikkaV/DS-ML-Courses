@@ -11,11 +11,13 @@ Basics of linear regression and loss functions
 
 | The graphical view of this function is the following :
 
-..image:: reg.png
+.. image:: reg.png
   :width: 400
   :align: center
   :alt: Linear regression 
+
 | Here y - is a predicted discreate number, x - is a feature, W and b - parameters which the model tries to learn (they actually represent the templates learned by model to make different decisions). If we have more than one feature, for example to predict the house's price we have not just the number of rooms, but also the distance to the center to the city, the equation above will transform to this view : 
+
 .. image:: linearform2.png
   :width: 200
   :align: center
@@ -29,8 +31,7 @@ Basics of linear regression and loss functions
  
 .. rubric:: MSE (Mean Squared Error): 
 
-
-.. image:: mse.png
+  .. image:: mse.png
   :width: 200
   :align: center
   :alt:  Linear regression formula
