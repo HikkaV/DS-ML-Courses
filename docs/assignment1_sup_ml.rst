@@ -27,14 +27,14 @@ Basics of linear regression and loss functions
  
 .. note:: We won't dig into math of loss functions and optimization algorithms, but we hardly ecnourage you to take a look on `this <https://www.coursera.org/learn/machine-learning?>`_ course made by Andrew Ng. 
 
-| How does a loss function look like? Well, loss functions can differ depending on the problem the classifier should solve, but for regression tasks we will consider the following:
+| How does a loss function look like? Well, loss functions can differ depending on the problem the classifier should solve, but for regression tasks we will consider the following.
  
 .. rubric:: MSE (Mean Squared Error) : 
 
-   .. image:: mse.png
-      :width: 200
-      :align: center
-      :alt:  Linear regression formula
+.. image:: mse.png
+   :width: 200
+   :align: center
+   :alt:  Linear regression formula
 
 
 .. note:: There are other loss functions you can use for regression tasks as MAE (Mean Absolute Error), but throuout this part of course we will use MSE to validate our model. 
