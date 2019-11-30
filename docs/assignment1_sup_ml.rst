@@ -4,21 +4,21 @@ Basics of linear regression and loss functions
 ==============================================
 
 | Speaking about machine learning, the best practice is to start with a basic simple algorithm and master core ideas using it. Before speaking about the particular model we are going to consider, you should understand that the key purpose of every machine learning model is to find a complex function that will do the compex stuff implied by the data. The classifier we will speak about is called *linear regression*.  As the name implies this model is used for regression and the function it tries to learn is a linear one. The mathematical view of this function is the following : 
-.. image:: linearform.png
+.. image:: images/linearform.png
   :width: 150
   :align: center
   :alt:  Linear regression formula
 
 | The graphical view of this function is the following :
 
-.. image:: reg.png
+.. image:: images/reg.png
   :width: 400
   :align: center
   :alt: Linear regression 
 
 | Here y - is a predicted discreate number, x - is a feature, W and b - parameters which the model tries to learn (they actually represent the templates learned by model to make different decisions). If we have more than one feature, for example to predict the house's price we have not just the number of rooms, but also the distance to the center to the city, the equation above will transform to this view : 
 
-.. image:: linearform2.png
+.. image:: images/linearform2.png
   :width: 200
   :align: center
   :alt:  Linear regression formula
@@ -31,7 +31,7 @@ Basics of linear regression and loss functions
  
 .. rubric:: MSE (Mean Squared Error) : 
 
-.. image:: mse.png
+.. image:: images/mse.png
    :width: 200
    :align: center
    :alt:  Linear regression formula
@@ -54,7 +54,7 @@ Train/Test split and model validation
 | Let's say we defined our classifier and prepared the data, but what should we do after? What data should we train the model on? Should we take all the data and just feed it to the classifier or there is some other process behind it? Actually, training the classifier on all the data can be useful in some custom cases, but frankly speeking that's not a great idea. *In machine learning workflow you need somehow understand if your model is good or bad. If you train your model on all the data you will see its perfomance that is related to learning only, but the fact we are really interested in is the perfomance on unseen real world data, as we train our algorithm to then use it for predictions*. Thus we need to somehow split our data into two parts (there is also a practice to split data into three parts train/validation/test, but for now we will use only train/test split) train data - the data we will use to train our model and test data - the one we will use to validate our model.  While working with regression we will use only one metric named MSE (Mean Squared Error) to validate the perfomance of our algorithm. There is also a practice of comparing perfomance on train data with perfomance on test one. If the perfomance on train data is better than on test, then it is a signal of model overfitting on train data. If the perfomance on train data is bad, it means that model is underfitting. We will examine both cases later in the assignments, but a key thing to understand is the fact that you need to evaluate your model on an unseen data to estimate if it's ready for real usage. 
 
 
-.. image:: traintest.png
+.. image:: images/traintest.png
   :width: 400
   :align: center
 

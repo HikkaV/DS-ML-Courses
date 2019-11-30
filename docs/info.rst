@@ -7,7 +7,7 @@ Data science
 ^^^^^^^^^^^^
 Data science - is a field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structered and unstructered data. Data science is a field that combines statistics, data analysis and machine learning to understand and analyse the data. Nowadays data science is one of the most demanding professions in sphere of IT, as the contemporary world is a data driven one. The main duties of every data scientists include : analysis of data, it's preprocessing, cleaning and transformation and finally extracting sense from it using statistical and machine learning techniques. As the core of data science is statistics and mathematics, the related part of the course is focused on teaching how to apply the techniques of highlited spheres to solve real world problems.
 
-.. image:: datascience.png
+.. image:: images/datascience.png
   :width: 800
   :alt: Data scinece
 
@@ -24,7 +24,7 @@ Machine learning
 
 | The picture describing this main difference is pinned below.
 
-.. image:: rules_data.png
+.. image:: images/rules_data.png
   :width: 800
   :alt: Difference between machine learning and traditional programming
 
@@ -37,7 +37,7 @@ The are three main types of learning :
 
  .. note:: We won't consider the Reinforcement learning in this course, but you can find additional information about it `here <https://www.geeksforgeeks.org/what-is-reinforcement-learning/>`_. Instead we will mainly focus on "clasical machine learning".
 
-.. image:: classical_ml.jpg
+.. image:: images/classical_ml.jpg
   :width: 800
   :alt: The tree of classical machine learning
 
@@ -46,13 +46,13 @@ The are three main types of learning :
 
 | In *classification* problem the answer (`sometimes called the target, we will use this name further`) is a categorical label/class and the task of the algorithm (`sometimes called the classifier or the model`) is to classify the sample/object depending on the features of relevant data.  In order to understand the it better, let's say you encountered the following problem : you have pictures of cats and dogs and you should determine whether the picture contains dog or cat. That's a routine task of image classification.
 
-.. image:: classification_example.png
+.. image:: images/classification_example.png
   :width: 800
   :alt: Classification example
 
 | On contrary the problem of *regression* exists, in which the target is a discrete continuous number and the task of a model is to learn the dependencies between features and the target to output the value that is the nearest to the target one. Simple example of regression is the task of predicting houses' prices depending on the number of rooms/size of the house. Instead of classifying houses into different groups, what we really want is to predict its exact price, that is actually a continuos number.
 
-.. image:: regression.png
+.. image:: images/regression.png
   :width: 800
   :alt: Regression example
 
@@ -66,7 +66,7 @@ The are three main types of learning :
 
 To undestand the difference between supervised and usupervised learning let's consider the following pictures which shows the difference between classsification (supervised learning) and clustering (unsupervised learning) :
 
-.. image:: dif.jpg
+.. image:: images/dif.jpg
   :width: 800
   :alt: The difference between supervised and unsupervised learning
 
@@ -79,7 +79,7 @@ Why use Python for machine learning and data science stuff? The answer is pretty
 
 Despite the fact that in this course you won't write the production ready code, you will get to know how to use Python for basic analysis and machine learning that will give you the mandatory skills to continue learning and developing in data sciense area. Finally, to persuade you in the fact that Python is the language you should really use, let's look at the chart showing the popularity of languages for the current year : 
 
-.. image:: lan_comparision.jpg
+.. image:: images/lan_comparision.jpg
   :width: 800
   :alt: Language comparision for 2019
 
