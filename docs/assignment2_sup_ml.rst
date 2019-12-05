@@ -15,7 +15,7 @@ What we can do is  transform this features to polynomial ones:
 
 .. image:: images/transformedfeat.png
   :width: 300
-  :height: 50
+  :height: 40
   :align: center
   :alt:  Transformed features
 
@@ -23,7 +23,7 @@ Now we still need to predict a target, but instead of 2 features we will use 5. 
 
 .. image:: images/yfeat.png
   :width: 300
-  :height: 50
+  :height: 40
   :align: center
   :alt:  Transformed y
 
