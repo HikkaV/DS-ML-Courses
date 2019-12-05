@@ -15,7 +15,7 @@ What we can do is  transform this features to polynomial ones:
 
 .. image:: images/transformedfeat.png
   :width: 300
-  :height: 100
+  :height: 50
   :align: center
   :alt:  Transformed features
 
@@ -23,7 +23,7 @@ Now we still need to predict a target, but instead of 2 features we will use 5. 
 
 .. image:: images/yfeat.png
   :width: 300
-  :height: 100
+  :height: 50
   :align: center
   :alt:  Transformed y
 
@@ -32,7 +32,7 @@ So what really using polynomial features does is transforming our problem to a h
 
 .. image:: images/comparison.png
   :width: 800
-  :height: 400
+  :height: 300
   :align: center
   :alt:  Comparison
 
