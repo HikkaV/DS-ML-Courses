@@ -31,8 +31,8 @@ So what really using polynomial features does is transforming our problem to a h
 
 
 .. image:: images/comparison.png
-  :width: 800
-  :height: 300
+  :width: 1670
+  :height: 688
   :align: center
   :alt:  Comparison
 
