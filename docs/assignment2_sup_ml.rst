@@ -14,16 +14,16 @@ Recall that in the previous lesson we introduced you to linear regression classi
 What we can do is  transform this features to polynomial ones:
 
 .. image:: images/transformedfeat.png
-  :width: 300
-  :height: 40
+  :width: 690
+  :height: 61
   :align: center
   :alt:  Transformed features
 
 Now we still need to predict a target, but instead of 2 features we will use 5. The critical insight here is that it's still a weighted linear combination of features, so it's still a linear model, that can use same least-squares estimation method for *w* and *b* (our parameters). The degree of polynomial specifies how many variables participate at time in each new feature (below example : degree 2).
 
 .. image:: images/yfeat.png
-  :width: 300
-  :height: 40
+  :width: 816
+  :height: 53
   :align: center
   :alt:  Transformed y
 
