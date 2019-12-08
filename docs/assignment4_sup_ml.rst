@@ -22,6 +22,10 @@ The gist of SVM
 
 This kind of transformation resembles the polynomial transformation that was used earlier for linear regression, and frankly speaking the polynomial kernel function for SVM exists. There are different kernel functions, but the main thing about them is that they can transform original input space to the feature space in which features are linear separable.  
 
+
+.. note:: We won't dig deep into the math of SVM, but we badly ecnourage you to take a look on `this <https://www.coursera.org/learn/machine-learning?>`_ course made by Andrew Ng. 
+
+
 Handling Overfitting
 ====================
 
