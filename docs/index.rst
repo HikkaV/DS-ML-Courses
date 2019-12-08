@@ -17,6 +17,8 @@ Welcome to Machine Learning & Data Science with Python basic course. The main pu
 * `Keras <https://keras.io/>`_ 
 * `Tensorflow <https://www.tensorflow.org/>`_
 
+ .. note:: Currently the course provides assignments using only Scikit learn package.
+
 Notes about the course
 ^^^^^^^^^^^^^^^^^^^^^^
 The course will use Python 3.7 and Jupyter Notebook as main tools for conducting exercises. All the work will be conducted on Google Colaboratory, as it's free to use powerfull tool based on Jupyter Notebook, thus you will need a google account to work on this platform. If you're not familiar with Jupyter Notebook, fill free to checkout this `tutorial <https://www.dataquest.io/blog/jupyter-notebook-tutorial/>`_. The course is VNTU students' oriented, but everyone can access the notebooks in Colaboratory and work through the course, if you want to do exercises on your local machine you can find the related information in :doc:`FAQ <faq>`. 
