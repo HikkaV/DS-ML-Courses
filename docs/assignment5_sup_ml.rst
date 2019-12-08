@@ -26,7 +26,7 @@ There are different parameters that are used to control the complexity of tree l
 
 .. image:: images/key_params_dt.png
   :width: 900
-  :height: 400
+  :height: 300
   :align: center
   :alt: key params dt
 
@@ -52,7 +52,7 @@ Unlike the decision tree, random forest is hard to interpret. The key parameters
 
 .. image:: images/key_params_rf.png
   :width: 900
-  :height: 400
+  :height: 300
   :align: center
   :alt: key params rf
 
@@ -73,7 +73,7 @@ GBDT often have a much higher perfomance than other decision tree based algorith
 
 .. image:: images/key_params_gbdt.png
   :width: 900
-  :height: 400
+  :height: 300
   :align: center
   :alt: gbdt
 
