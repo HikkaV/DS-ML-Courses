@@ -7,7 +7,7 @@ The gist of SVM
 | Today we will introduce you to Support Vector Machines classifier. SVM is often referred to as maximum margin classifier. What does the classifier margin mean? Margin is defined as the maximum width the decision boundary area can be increased before hitting a data point. The linear classifier with maximum margin is a linear Support Vector Machine (LSVM). The formula that describes the decision boundary of linear SVM regression is the following (where epsilon denotes the width of margin) : 
 
 .. image:: images/support_vector_machine.png
-  :width: 800
+  :width: 600
   :height: 300
   :align: center
   :alt: linear  SVM
