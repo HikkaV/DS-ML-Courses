@@ -9,7 +9,7 @@ In the previous lesson you were introduced to polynomial regression model. Despi
 
 .. image:: images/overfitting_polynomial.png
   :width: 800
-  :height: 400 
+  :height: 200 
   :align: center
   :alt:  Overfitting of polynomial regression
 
@@ -22,7 +22,7 @@ Underfitting problem
 
 .. image:: images/andrewng_comp.png
   :width: 800
-  :height: 400 
+  :height: 200
   :align: center
   :alt:  Comparison
 
