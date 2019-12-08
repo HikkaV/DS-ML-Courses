@@ -7,8 +7,8 @@ Decision trees
 Decision trees are a popular supervised machine learning method that can be used for both regression and classification. Decision trees are easy to use and interpret, thus this method can help to understand what features are the most influential in the dataset. Basically, decision trees learn a series of explicit if then rules on feature values that result in a decision that predicts the target value. The simple example is shown below.
 
 .. image:: images/example_decisiontrees.png
-  :width: 600
-  :height: 200
+  :width: 900
+  :height: 400
   :align: center
   :alt: example decision trees
 
@@ -16,8 +16,8 @@ The inset above shows the example of rules (questions) the decision tree learned
 
 
 .. image:: images/yes_no_dt.png
-  :width: 600
-  :height: 200
+  :width: 900
+  :height: 400
   :align: center
   :alt: example decision trees
 
@@ -25,8 +25,8 @@ The inset above shows the example of rules (questions) the decision tree learned
 There are different parameters that are used to control the complexity of tree like max_depth, max_leaf_nodes, min_samples_leaf and so on (you will see the effect of these parameters in the today's assignment). Thus by tunning them the one can reduce overfitting. The one key feature of decision trees is that they don't require specific scaling and normalization of data. The key parameters of decision tree is shown below.
 
 .. image:: images/key_params_dt.png
-  :width: 600
-  :height: 200
+  :width: 900
+  :height: 400
   :align: center
   :alt: key params dt
 
@@ -37,8 +37,8 @@ If we think about decision tree as about human, then the forest is a big amount 
 
 
 .. image:: images/rf_process.png
-  :width: 600
-  :height: 200
+  :width: 900
+  :height: 400
   :align: center
   :alt: random forest process
 
@@ -51,8 +51,8 @@ The prediction using random forest is conducted in the following way:
 Unlike the decision tree, random forest is hard to interpret. The key parameters of random forest are shown below.
 
 .. image:: images/key_params_rf.png
-  :width: 600
-  :height: 200
+  :width: 900
+  :height: 400
   :align: center
   :alt: key params rf
 
@@ -63,8 +63,8 @@ GBDT (Gradient Boosted Decision Trees)
 Like a random forest, GBDT uses an ensemble of decision trees to solve both regression and classification models. The key idea of GBDT is that it creates a series of trees, where each tree is trained that it attempts to correct the mistakes of the previous tree in the series. 
 
 .. image:: images/gbdt.png
-  :width: 600
-  :height: 200
+  :width: 900
+  :height: 400
   :align: center
   :alt: gbdt
 
@@ -72,8 +72,8 @@ GBDT often have a much higher perfomance than other decision tree based algorith
 
 
 .. image:: images/key_params_gbdt.png
-  :width: 600
-  :height: 200
+  :width: 900
+  :height: 400
   :align: center
   :alt: gbdt
 
