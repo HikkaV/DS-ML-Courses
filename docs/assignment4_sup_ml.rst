@@ -12,7 +12,7 @@ The gist of SVM
   :align: center
   :alt: linear  SVM
 
-| There is and other type of SVM algorithm known as Kernelized SVM. Kernel is just a similarity measure (modified dot product) between data points. What it really does is transforming features to the other space in order them to be easy fit by a linear classifier (see the example shown below).
+| There is an other type of SVM algorithm known as Kernelized SVM. Kernel is just a similarity measure (modified dot product) between data points. What it really does is transforming features to the other space in order them to be easy fit by a linear classifier (see the example shown below).
 
 .. image:: images/svm2.png
   :width: 800
