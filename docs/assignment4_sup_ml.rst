@@ -47,4 +47,4 @@ In today's assignment you will work with SVM regressor. You will have a chance t
   :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/machine_learning/assignment_4/assignment_4.ipynb
   :width: 150
   :align: right
-  :alt:  Assignment 1
+  :alt:  Assignment 4
