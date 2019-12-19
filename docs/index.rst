@@ -35,7 +35,7 @@ Support
 
 As the project is an open sourse one, anyone can contribute to it, so feel free to join the development discussion :
 
-* On github page of the  `project <https://github.com/HikkaV/VNTU-ML-Courses>`_
+* On github page of the  `project <https://github.com/HikkaV/DS-ML-Courses>`_
 
 .. toctree::
    :maxdepth: 3
