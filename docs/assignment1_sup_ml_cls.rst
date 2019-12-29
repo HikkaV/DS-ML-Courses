@@ -18,7 +18,7 @@ The main thing is that the algorithms you already acquainted with, can be used f
   :alt: Logistic regression
 
 
-The other option is to use a sign function on the linear output which analog of threshold function (that is how the SVM for classification works).
+The other option is to use a sign function on the linear output which is an analog of threshold function (that is how the SVM for classification works).
 
 .. image:: images/SVC.png
   :width: 800
