@@ -23,7 +23,7 @@ The other interesting idea is to think about hyperparameters tuning as about the
 * It's computationally efficient, as the search of hyperparameters is done by the learning algorithm, and thus nice values can be found much faster.
 * With each iteration, the algorithm "on top" is supposed to find the hyperparameters which make the perfomance of the algorithm better, whereas random an exhaustive search can never find the best one.
 
-.. note:: We won't consider tunning through minimization and randomize parameter optimization, but if you are interested you can learn about them `this <https://scikit-optimize.github.io/>`_ and `here <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html>`_. 
+.. note:: We won't consider tunning through minimization and randomize parameter optimization, but if you are interested you can learn about them `here <https://scikit-optimize.github.io/>`_ and `here <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html>`_. 
 
 Anyway it's benefitial to have an idea about in which space to seek for best hyperparameters, as it can speed up the process of hyperparameters tunning. 
 
