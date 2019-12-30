@@ -85,6 +85,7 @@ Cross validation and greedy search
 
 The last topic for today is about a new method of validating and evaluating the performance of our classifier. So far we validated our algorithm only on a test set, which is actually just the portion of data that is randomly cut off our overall dataset. Actually this approach is bad as it relies on only one random subset of data, and it isn't enough to state that the algorithm is good or bad. Thus, for not very complicated classifiers and small-medium datasets the other approach named *cross validation is used*. The basic idea of cross validation is to train and test classifier on different subsets of data and then recieve the predefined score (f1, accuracy,precision, etc.) for each subset. After that the score can be averaged across subsets to get an adequate estimate of the algorithm's performance.
 
+
 .. image:: images/crossval.png
   :width: 800
   :alt: cross validation
