@@ -12,7 +12,7 @@ Randomized parameter optimization
 
 Instead of iterating through the entire parameters' space, randomized search samples candidates from a distribution over possible parameter values. Two main benefits of it are the following :
 
-* A budget can be chosen independent of the number of parameters and possible values.
+* A budget (by budget we mean computational time and power) can be chosen independent of the number of parameters and possible values.
 * Adding parameters that do not influence the performance does not decrease efficiency.
 
 Tuning through minimization
