@@ -6,7 +6,7 @@ How to start with Google Colaboratory
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
   :width: 150
-  :align: right
+  :align: center
 
 | By pressing on it you'll be redirected to the related assignment :
 
