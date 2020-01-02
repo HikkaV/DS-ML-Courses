@@ -4,7 +4,7 @@ Introduction
 ^^^^^^^^^^^^
 Welcome to Machine Learning & Data Science with Python basic course. The main purpose of this lookout course is to encourage students to apply basic knowledge of statistics, mathematics and Python to start solving real world problems using open source Machine Learning tools. The course is divided in two different parts.
 
-|  Firstly, the basics of Data Science with Python are obeserved, as general data analysis, its processing and understanding along with the knowledge of how to represent information effectivly is crucial for any machine learning practioner. What is more, sometimes its benefitial to firstly try some statistical methods of solving the particular problem, before diving into more complicated ML stuff. In addition some open source packages for working with data and scientific calculus are introduced: 
+|  Firstly, the basics of Data Science with Python are obeserved, as general data analysis, its processing and understanding along with the knowledge of how to represent information effectivly is crucial for any machine learning practioner. What is more, sometimes its beneficial to firstly try some statistical methods of solving the particular problem, before diving into more complicated ML stuff. In addition some open source packages for working with data and scientific calculus are introduced: 
 
 * `Numpy <https://numpy.org/>`_ 
 * `Pandas <https://pandas.pydata.org/>`_ 

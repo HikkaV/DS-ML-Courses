@@ -14,3 +14,36 @@ By pressing on it you'll be redirected to the related assignment :
   :align: center
 
 In the google colab you can change the code as you want, you can add cells, write your own functions, etc, as all the notebooks for assignments are in playground mode. You can also choose the runtime type (it's beneficial while working with deep learning models) :
+
+.. image:: images/runtime.png
+  :width: 800
+  :align: center
+
+Note, that you don't need to install any packages, as they are already installed in colab environment. If you want to run all the code on your own machine, please go to this :doc:`section <faq>`. 
+
+When you start runnig the cells, you will probably see this message :
+
+.. image:: images/message.png
+  :width: 800
+  :align: center
+
+Just press `RUN ANYWAY` and go on with a notebook.
+
+Loading from colab
+^^^^^^^^^^^^^^^^^^
+
+In classification module you will try to solve the challenge from `kaggle <https://www.kaggle.com/>`_, as the result the file with submission will be saved locally in colab. In order to load it to your machine and then submit on the page of compettion, do the following :
+
+* Open the dropout menu :
+
+.. image:: images/menu.png
+  :width: 800
+  :align: center
+
+* Choose Files and load a submission.csv file :
+
+.. image:: images/menu2.png
+  :width: 800
+  :align: center
+
+Colab is powerful tool for working with notebooks, making research and analysis of data, because of that it will be used heavily throught the course.
