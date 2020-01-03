@@ -16,10 +16,10 @@
 
 
 # -- Project information -----------------------------------------------------
-
-project = 'Machine Learning/Data Science courses'
-copyright = '2019, Volodymyr Kovenko'
-author = 'Volodymyr Kovenko'
+master_doc = 'index'
+project = u'ML/DS courses'
+copyright = u'2020, Volodymyr Kovenko, Vitalii Shevchuk'
+author = u'Volodymyr Kovenko, Vitalii Shevchuk'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
@@ -53,8 +53,12 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 html_theme = 'alabaster'
-
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+man_pages = [
+    (master_doc, 'implicit', u'Implicit Documentation',
+     [author], 1)
+]
