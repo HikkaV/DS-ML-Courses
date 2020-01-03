@@ -1,7 +1,7 @@
 How to start with Google Colaboratory
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-sssssFor all the laboratories and assignments in this course, the google colaboratory is used. In order to undestand key features of it, please follow  `this <https://colab.research.google.com/notebooks/basic_features_overview.ipynb>`_ tutorial. At the end of each lesson you will see the following button :
+For all the laboratories and assignments in this course, the google colaboratory is used. In order to undestand key features of it, please follow  `this <https://colab.research.google.com/notebooks/basic_features_overview.ipynb>`_ tutorial. At the end of each lesson you will see the following button :
 
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
