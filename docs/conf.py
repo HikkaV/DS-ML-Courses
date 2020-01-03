@@ -61,3 +61,10 @@ html_logo = "logo/logo.png"
 html_theme_options = {
     'logo_only': True
 }
+html_sidebars = {
+    '**': [
+        'index.html',
+        'datascience.html',
+        'machinelearning.html'
+    ]
+}
