@@ -31,7 +31,6 @@ pygments_style = 'sphinx'
 # ones.
 extensions = ['sphinx.ext.autosectionlabel',             
 'sphinxmark',
-'nbsphinx',
 'sphinx.ext.mathjax',
 'sphinx.ext.imgmath',
 'sphinx.ext.mathbase']
