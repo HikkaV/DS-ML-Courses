@@ -34,4 +34,4 @@ Other areas out side of tidy data include parsing variable types (dates and numb
 
 In first assignment we will work through process of dates parsing.
 
- .. note:: Some information is taken from `this <https://vita.had.co.nz/papers/tidy-data.pdf>`_ article.
+.. note:: Some information is taken from `this <https://vita.had.co.nz/papers/tidy-data.pdf>`_ article.
