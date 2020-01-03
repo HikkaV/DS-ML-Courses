@@ -17,7 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 master_doc = 'index'
-project = u'ML/DS courses'
+project = u'Data Science and Machine Learning basic course with Python'
+slug = re.sub(r'\W+', '-', project.lower())
 copyright = u'2020, Volodymyr Kovenko, Vitalii Shevchuk'
 author = u'Volodymyr Kovenko, Vitalii Shevchuk'
 
@@ -59,19 +60,8 @@ html_title = 'DS/ML course'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+html_logo = "logo/logo.png"
 html_theme_options = {
-    'canonical_url': '',
-    'analytics_id': '', #  Provided by Google in your dashboard
     'logo_only': True
-    'display_version': True,
-    'prev_next_buttons_location': 'bottom',
-    'style_external_links': False,
-    'vcs_pageview_mode': '',
-    'style_nav_header_background': 'white',
-    # Toc options
-    'collapse_navigation': True,
-    'sticky_navigation': True,
-    'navigation_depth': 4,
-    'includehidden': True,
-    'titles_only': False
 }
+htmlhelp_basename = slug

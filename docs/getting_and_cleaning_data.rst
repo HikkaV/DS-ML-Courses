@@ -1,5 +1,5 @@
 Getting and cleanning data
-========================
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 One can admit that term Data Science consinst of 2 words: "Data" and "Science". It's not a coincidence, thus in this part we will focus on first part - "Data".
 In the present times we can found data literally everywhere: from text messages on our phones to whether predictions on TV in different forms and presentations (video, audio, text, images, etc...). 

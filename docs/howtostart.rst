@@ -1,7 +1,7 @@
 How to start with Google Colaboratory
-=====================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-| For all the laboratories and assignments in this course, the google colaboratory is used. In order to undestand key features of it, please follow  `this <https://colab.research.google.com/notebooks/basic_features_overview.ipynb>`_ tutorial. At the end of each lesson you will see the following button :
+sssssFor all the laboratories and assignments in this course, the google colaboratory is used. In order to undestand key features of it, please follow  `this <https://colab.research.google.com/notebooks/basic_features_overview.ipynb>`_ tutorial. At the end of each lesson you will see the following button :
 
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
@@ -10,7 +10,7 @@ How to start with Google Colaboratory
 
 
 
-| By pressing on it you'll be redirected to the related assignment :
+By pressing on it you'll be redirected to the related assignment :
 
 .. image:: images/ass1.png
   :width: 800
@@ -33,7 +33,7 @@ When you start runnig the cells, you will probably see this message :
 Just press `RUN ANYWAY` and go on with a notebook.
 
 Loading from colab
-^^^^^^^^^^^^^^^^^^
+==================
 
 In classification module you will try to solve the challenge from `kaggle <https://www.kaggle.com/>`_, as the result the file with submission will be saved locally in colab. In order to load it to your machine and then submit on the page of compettion, do the following :
 
