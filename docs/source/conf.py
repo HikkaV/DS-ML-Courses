@@ -14,11 +14,9 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-import re
 # -- Project information -----------------------------------------------------
 master_doc = 'index'
 project = u'Data Science and Machine Learning basic course with Python'
-slug = re.sub(r'\W+', '-', project.lower())
 copyright = u'2020, Volodymyr Kovenko, Vitalii Shevchuk'
 author = u'Volodymyr Kovenko, Vitalii Shevchuk'
 
@@ -59,8 +57,6 @@ html_logo = "logo/logo.png"
 html_theme_options = {
     'logo_only': True
 }
-htmlhelp_basename = slug
-
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
