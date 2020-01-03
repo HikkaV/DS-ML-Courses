@@ -14,7 +14,7 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
-
+import re
 # -- Project information -----------------------------------------------------
 master_doc = 'index'
 project = u'Data Science and Machine Learning basic course with Python'
@@ -23,7 +23,7 @@ copyright = u'2020, Volodymyr Kovenko, Vitalii Shevchuk'
 author = u'Volodymyr Kovenko, Vitalii Shevchuk'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = '0.0.3'
 
 pygments_style = 'sphinx'
 # -- General configuration ---------------------------------------------------
