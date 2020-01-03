@@ -1,10 +1,11 @@
 Description
-===========
+^^^^^^^^^^^
 
 In this section you will get to know the key notions that will be used throught the course.
 
 Data science
-^^^^^^^^^^^^
+============
+
 Data science - is a field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structered and unstructered data. Data science is a field that combines statistics, data analysis and machine learning to understand and analyse the data. Nowadays data science is one of the most demanding professions in sphere of IT, as the contemporary world is a data driven one. The main duties of every data scientists include : analysis of data, it's preprocessing, cleaning and transformation and finally extracting sense from it using statistical and machine learning techniques along with presentation of performed results to non technical people. As the core of data science is statistics and mathematics, the related part of the course is focused on teaching how to apply the techniques of highlited spheres to solve real world problems.
 
 .. image:: images/datascience.png
@@ -16,7 +17,7 @@ Data science - is a field that uses scientific methods, processes, algorithms an
 
 
 Machine learning
-^^^^^^^^^^^^^^^^
+================
 
 **Machine learning** - is a branch of AI (`Artificial Intellegence`) in programming the main goal of which is to make the machine "learn" how to solve the tasks which can't be programmed explicitly. Nowadays, Machine learning is a really hot topic, as the applications of this sphere extended broadly. For instance let's consider the contemporary smartphone : such functions as voice assistant, fingerprint and face verification, handwritten recognition are included by default, and all of the highlited functions are machine learning driven. Actually, to understand the main difference between machine learning and ordinary programming we can expose the following example :
 
@@ -35,7 +36,7 @@ The are three main types of machine learning :
  * *Unsupervised learning*
  * *Reinforcement learning*
 
- .. note:: We won't consider the Reinforcement learning in this course, but you can find additional information about it `here <https://www.geeksforgeeks.org/what-is-reinforcement-learning/>`_. Instead we will mainly focus on "clasical machine learning".
+.. note:: We won't consider the Reinforcement learning in this course, but you can find additional information about it `here <https://www.geeksforgeeks.org/what-is-reinforcement-learning/>`_. Instead we will mainly focus on "clasical machine learning".
 
 .. image:: images/classical_ml.jpg
   :width: 800
@@ -60,7 +61,7 @@ The are three main types of machine learning :
 
 *Unsupervised learning* - is a type of learning when algorithm is given only data/features without any answers/labels. The purpose of unsupervised learning alogirthms is to find the similarities between data samples and based on this similarities perform some actions. The unsupervised learning is divided into three types of problems : *clustering* , *dimension reduction* , *association*.
 
- .. note:: We will focus only on *clustering* as the other algorithms are outofscope this course, but we encourage you to visit this `page <https://algorithmia.com/blog/introduction-to-unsupervised-learning>`_ to get more information.
+.. note:: We will focus only on *clustering* as the other algorithms are outofscope this course, but we encourage you to visit this `page <https://algorithmia.com/blog/introduction-to-unsupervised-learning>`_ to get more information.
 
 | In *clustering* problem the goal of the algorithm is to cluster the data into different groups based on the similarities between samples. To understand the gist of clustering let's define the following problem : you need to make a system that identifies spam messages and sends them to spam folder. What you can do is gether the information like words from the messages and than break these information into two different groups, after that you can determine yourself which group contains spam and which - not.
 
@@ -73,7 +74,7 @@ To undestand the difference between supervised and usupervised learning let's co
 | You will have a chance to work with both supervised and unsupervised learning techniques and dig deeper into core concepts of machine learning further in this course. 
 
 Python
-^^^^^^
+======
 
 Why use Python for machine learning and data science? The answer is pretty obvious, because it's much simpler, much faster and finally much more efficient to do this heavy job using the exposed programming language. Python scientific packages such as scipy, numpy, pandas and others allow conducting complex mathematics computations and statistics calculus in few lines of code giving analysts and researchers a possibility to easily make analysis and developing new algorithms. What is more, Python is usually used in production solutions, thus you can easily refactor your draft code for (let's say) processing of the data and then scale it up to production system.
 
