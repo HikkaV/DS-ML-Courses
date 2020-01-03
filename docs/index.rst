@@ -43,7 +43,7 @@ As the project is an open source, anyone can contribute to it, so feel free to j
 
 .. toctree::
    :maxdepth: 3
-   :caption: Context :
+   :caption: Content:
    
    howtostart
    info
