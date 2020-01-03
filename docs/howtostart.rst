@@ -43,10 +43,10 @@ In classification module you will try to solve the challenge from `kaggle <https
   :width: 400
   :align: center
 
-* Choose Files and load a submission.csv file :
+* Choose Files and download a submission.csv file :
 
 .. image:: images/menu2.png
   :width: 400
   :align: center
 
-Colab is powerful tool for working with notebooks, making research and analysis of data, because of that it will be used heavily throught the course.
+Colab is a powerful tool for working with notebooks, making research and analysis of data, because of that it will be used heavily throught the course.
