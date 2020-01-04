@@ -37,7 +37,7 @@ In first assignment we will work through process of dates parsing. And see how d
 .. note:: Some information is taken from `this <https://vita.had.co.nz/papers/tidy-data.pdf>`_ article.
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
-  :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/data_science/assignment_1_getting_and_cleanning_data/assignment_1_getting_and_cleanning_data/parsing_dates.ipynb
+  :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/data_science/assignment_1_getting_and_cleanning_data/parsing_dates.ipynb
   :width: 150
   :align: right
   :alt:  Assignment 1
