@@ -60,7 +60,7 @@ Description of assignment
 | In todays assignment you will use l1 and l2 regularization to solve the problem of overfitting. You will firstly scale you data using MinMaxScaler, then train linear regression with both l1 and l2 regularization on the scaled data and finally perform regularization on the polynomial regression. 
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
-  :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/machine_learning/assignment_3/assignment_3.ipynb
+  :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/machine_learning/assignment_3_regression/assignment_3.ipynb
   :width: 150
   :align: right
   :alt:  Assignment 3

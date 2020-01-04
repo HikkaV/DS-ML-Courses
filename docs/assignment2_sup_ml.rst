@@ -46,7 +46,7 @@ In this assignment you will continue working with linear regression, but using a
 
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
-  :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/machine_learning/assignment_2/assignment_2.ipynb
+  :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/machine_learning/assignment_2_regression/assignment_2.ipynb
   :width: 150
   :align: right
   :alt:  Assignment 2

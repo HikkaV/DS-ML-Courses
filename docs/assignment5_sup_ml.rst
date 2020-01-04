@@ -86,7 +86,7 @@ Description of assignment
 In today's assignment you will work with the models from decision trees family. You will use all the highlited algorithms to solve the problem of predicting housing prices. Note that this is the last assignment in regression module. We hope that this section was useful to you and you will continue exploring machine learning sphere further.
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
-  :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/machine_learning/assignment_5/assignment_5.ipynb
+  :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/machine_learning/assignment_5_regression/assignment_5.ipynb
   :width: 150
   :align: right
   :alt:  Assignment 5

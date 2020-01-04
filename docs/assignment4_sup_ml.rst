@@ -44,7 +44,7 @@ Description of assignment
 In today's assignment you will work with SVM regressor. You will have a chance to try different kinds of kernel functions, values of C and gamma and compare the results with the previous ones. 
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
-  :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/machine_learning/assignment_4/assignment_4.ipynb
+  :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/machine_learning/assignment_4_regression/assignment_4.ipynb
   :width: 150
   :align: right
   :alt:  Assignment 4
