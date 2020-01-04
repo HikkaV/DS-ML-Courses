@@ -2,7 +2,7 @@ Getting and cleanning data
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 One can admit that term Data Science consinst of 2 words: "Data" and "Science". It's not a coincidence, thus in this part we will focus on first part - "Data".
-In the present times we can found data literally everywhere: from text messages on our phones to whether predictions on TV in different forms and presentations (video, audio, text, images, etc...). 
+In the present times we can found data literally everywhere: from text messages on our phones to whether predictions on TV in different forms and presentations (video, audio, text, images, etc...). Data could be break into two subcategories shown below.
 
 | Comparison of structured and unstructured data :
 
@@ -32,6 +32,6 @@ It is only after data is tidy that it is useful for data analysis.
 
 Other areas out side of tidy data include parsing variable types (dates and numbers), dealing with missing values, characters encodings, typos and outliers.
 
-In first assignment we will work through process of dates parsing.
+In first assignment we will work through process of dates parsing. And see how dataset is valuable to data issues.
 
 .. note:: Some information is taken from `this <https://vita.had.co.nz/papers/tidy-data.pdf>`_ article.
