@@ -42,6 +42,8 @@ Description of assignment
 
 .. note:: Some information is taken from `this <https://vita.had.co.nz/papers/tidy-data.pdf>`_ article.
 
+.. warning:: The related assignment is under creation, when it is ready, this warning will vanish. 
+
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/data_science/assignment_1_getting_and_cleanning_data/parsing_dates.ipynb
   :width: 150
