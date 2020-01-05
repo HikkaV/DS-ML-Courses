@@ -6,3 +6,5 @@ Exploratory data analysis
 
 
 https://www.kdnuggets.com/2019/02/asking-great-questions-data-scientist.html
+
+.. note:: This chapter is under creation, we apologize for it. It will be added in a near future, please stay up to date in order not to miss it. 
