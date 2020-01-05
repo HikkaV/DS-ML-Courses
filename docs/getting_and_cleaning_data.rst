@@ -1,8 +1,8 @@
 Getting and cleanning data
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-One can admit that term Data Science consinst of 2 words: "Data" and "Science". It's not a coincidence, thus in this part we will focus on first part - "Data".
-In the present times we can found data literally everywhere: from text messages on our phones to whether predictions on TV in different forms and presentations (video, audio, text, images, etc...). Data could be break into two subcategories shown below.
+One can admit that term Data Science consinst of 2 words: "Data" and "Science". It's not a coincidence, thus in this part we will focus on the first part - "Data".
+In the present times we can find data literally everywhere: from text messages on our phones to whether predictions on TV in different forms and presentations (video, audio, text, images, etc...). Data can be divided into two subcategories shown below.
 
 | Comparison of structured and unstructured data :
 
@@ -11,7 +11,7 @@ In the present times we can found data literally everywhere: from text messages 
   :align: center
   :alt: Structured and unstructured data
 
-A lot of data analysis time is spent on data cleaning and data preparation, up to 80% of the time. And here for the rescue comes term `Tidy Data`. Idea behind tidy data is taken from relational databases and database normalization from computer science. Beside rows and columns in tables, additional point should be considered:
+Up to 80% of the time devoted to data analysis is spent on data cleaning and data preparation. And here for the rescue comes a term `Tidy Data`. Idea behind tidy data is taken from relational databases and database normalization from computer science. Beside rows and columns in tables, additional point should be considered:
 
 - The data is a collection of values of a given type
 - Every value belongs to a variable
@@ -32,7 +32,7 @@ It is only after data is tidy that it is useful for data analysis.
 
 Other areas out side of tidy data include parsing variable types (dates and numbers), dealing with missing values, characters encodings, typos and outliers.
 
-In first assignment we will work through process of dates parsing. And see how dataset is valuable to data issues.
+In the first assignment we will work through the process of dates parsing using the dataset from `kaggle <https://www.kaggle.com/>`_. You will learn how to work with dataframes, visualize the data
 
 .. note:: Some information is taken from `this <https://vita.had.co.nz/papers/tidy-data.pdf>`_ article.
 
