@@ -9,7 +9,7 @@ At the end of each lesson you will see the following button :
   :width: 150
   :align: center
 
-| |
+|
 By pressing on it you'll be redirected to the related assignment :
 
 .. image:: images/ass1.png
