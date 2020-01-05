@@ -19,7 +19,7 @@ How can I contribute to the course to make it better?
 
 We value every input that will make the course better, that's why everyone is encouraged to follow the discussion in the issues of offical `github <https://github.com/HikkaV/DS-ML-Courses/issues>`_ repository and make your merge requests.
 
-What is the exact list of courses on which this course was built on?
+What is the exact list of courses which this course was built on?
 ====================================================================
 
 1) `Applied Data Science with Python specialization from MIT university <https://www.coursera.org/specializations/data-science-python?skipBrowseRedirect=true&skipRecommendationsRedirect=true&tab=completed>`_ .
