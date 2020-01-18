@@ -44,7 +44,7 @@ Description of assignment
 
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
-  :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/data_science/assignment_1_getting_and_cleanning_data/parsing_dates.ipynb
+  :target: https://colab.research.google.com/github/HikkaV/DS-ML-Courses/blob/master/assignments/data_science/assignment_1_getting_and_cleanning_data/parsing_dates.ipynb
   :width: 150
   :align: right
   :alt:  Assignment 1
