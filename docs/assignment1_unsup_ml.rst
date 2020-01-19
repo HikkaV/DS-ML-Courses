@@ -4,7 +4,7 @@ Unsupervised learning techniques have many applications and in general can be di
 
 
 .. image:: images/unsup.png
-  :width: 400
+  :width: 600
   :align: center
   :alt: Unsupervised
 
@@ -28,7 +28,7 @@ Objective of K-means is simple: group similar data points together and discover 
 
 A disadvantage of the algorithm is that the one needs to set the number of clusters (k) mannually. However there is a technique called "elbow" method which can give an insight about the best number of clusters for your data. 
 
-.. note:: You will get to know about "elbow" method in todays assignment.
+.. note:: You will get to know about "elbow" method in today's assignment.
 
 Understanding DBSCAN
 ====================
@@ -47,7 +47,7 @@ However, DBSCAN has some disadvantages :
 
 Description of assignment
 =========================
-In todays assignment you will have a hands on introduction to clustering with KMeans and DBSCAN. You will learn how to apply the highlighted methods to group data into different clusters, understand "elbow" method and learn how to use it on practice, and grasp the advantages of DBSCAN. Have fun!
+In today's assignment you will have a hands on introduction to clustering with KMeans and DBSCAN. You will learn how to apply the highlighted methods to group data into different clusters, understand "elbow" method and learn how to use it on practice, and grasp the advantages of DBSCAN. Have fun!
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/HikkaV/DS-ML-Courses/blob/master/assignments/machine_learning/assignment_1_unsupervised/assignment_1.ipynb
