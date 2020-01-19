@@ -42,6 +42,7 @@ DBSCAN is a clustering method that is used in machine learning to separate clust
   :alt: Unsupervised
 
 However, DBSCAN has some disadvantages :
+
 * DBSCAN does not work well when dealing with clusters of varying densities.
 * DBSCAN does not work well with high dimensional data.
 
