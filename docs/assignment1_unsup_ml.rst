@@ -11,7 +11,7 @@ Unsupervised learning techniques have many applications and in general can be di
 Some examples of applications based on unsupervised learning include clustering and grouping of users based on their profiles, data compression, visualization of high dimensional data and identifying withold patterns in data. Unsupervised learning algorithms need only X (features) without y (labels) to work, as they tend to find similarities in data and based on them conduct clustering. 
 
 .. image:: images/unsup1.jpeg
-  :width: 400
+  :width: 600
   :align: center
   :alt: Unsupervised
 
