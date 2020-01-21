@@ -20,7 +20,7 @@ While working with multiclassification, sometimes it's useful to examine the dec
 
 Description of assignment
 =========================
-In your last assignment in classification model you will explore multiclassification with NIST handwritten digit dataset and visualize the decision boundaries of logistic regression model. We hope that this section was useful to you and you will continue exploring machine learning sphere further.
+In your last assignment in classification section you will explore multiclassification with NIST handwritten digit dataset and visualize the decision boundaries of logistic regression model. We hope that this section was useful to you and you will continue exploring machine learning sphere further.
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/machine_learning/assignment_3_classification/assignment_3.ipynb
