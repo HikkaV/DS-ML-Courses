@@ -17,7 +17,7 @@ In this section we will work through crime dataset taken from `kaggle <https://w
 - wordcloud
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
-  :target: https://colab.research.google.com/github/HikkaV/DS-ML-Courses/blob/master/assignments/data_science/assignment_2_exploratory_data_analysis/crimes_exploring.ipynb
+  :target: https://colab.research.google.com/github/HikkaV/DS-ML-Courses/blob/master/assignments/data_science/assignment_2_exploratory_data_analysis/crimes_exploration.ipynb
   :width: 150
   :align: right
   :alt:  Assignment 1
