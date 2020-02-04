@@ -10,7 +10,7 @@ Exploratory data analysis
 Description of assignment
 =========================
 
-In this section we will work through crime dataset taken from `kaggle <https://www.kaggle.com/>`. Along the way many questions find their answers with help of visualization tools such as:
+In this section we will work through crime dataset taken from `kaggle <https://www.kaggle.com/>`_. Along the way many questions find their answers with help of visualization tools such as:
 
 - seaborn
 - matplotlib
