@@ -50,5 +50,5 @@ Hope one remember data used for previos assignment. Despite the fact that all as
   :align: right
   :alt:  Assignment 1
 
-`Pdf <https://raw.githubusercontent.com/HikkaV/VNTU-ML-Courses/master/assignments/data_science/files/reproducible_research.pdf/>`_.
+`Pdf <https://raw.githubusercontent.com/HikkaV/VNTU-ML-Courses/master/assignments/data_science/files/reproducible_research.pdf>`_.
 
