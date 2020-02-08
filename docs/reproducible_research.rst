@@ -23,10 +23,10 @@ Top Reasons for Making your Research Reproducible:
 
 Please take a look at few articles that are publicly availiable on `rpubs <https://rpubs.com/>`_. All of them using R as main data processing language, but for now we are interested only in structure of research papers. 
 
- * *`article_1 <https://rpubs.com/karthikchawala/303796>`_*
- * *`article_1 <https://rpubs.com/Kallibek/459818>`_*
- * *`article_1 <https://rpubs.com/gcctang1/271126>`_*
- * *`article_1 <https://www.rpubs.com/michelsone/Research_Project_2>`_*
+`article1 <https://rpubs.com/karthikchawala/303796/>`_;
+`article2 <https://rpubs.com/Kallibek/459818/>`_;
+`article3 <https://rpubs.com/gcctang1/271126/>`_;
+`article4 <https://www.rpubs.com/michelsone/Research_Project_2/>`_.
 
 Listed links are only for educational purposes.
 
@@ -44,12 +44,11 @@ Description of assignment
 
 Hope one remember data used for previos assignment. Despite the fact that all assignments in this course are following reproducibility rules, but we are going to prepare .pdf article to get better sense of theory in this section. Pdf file prepared from changed notebook of previos section.
 
-
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
-  :target: https://colab.research.google.com/github/HikkaV/DS-ML-Courses/blob/master/assignments/data_science/assignment_2_exploratory_data_analysis/crimes_exploration.ipynb
+  :target: https://colab.research.google.com/github/HikkaV/DS-ML-Courses/blob/master/assignments/data_science/assignment_3_reproducible_research/reproducible_research.ipynb
   :width: 150
   :align: right
   :alt:  Assignment 1
 
- `Pdf <https://rpubs.com/>`_.
+`Pdf <https://raw.githubusercontent.com/HikkaV/VNTU-ML-Courses/master/assignments/data_science/files/reproducible_research.pdf/>`_.
 
