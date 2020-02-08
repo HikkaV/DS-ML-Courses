@@ -23,9 +23,9 @@ Top reasons for making your research reproducible:
 We encourage you to take a look on few articles that are publicly availiable on `rpubs <https://rpubs.com/>`_. All of them are using R as main data processing language, but for now we are interested only in the structure of research papers. 
 
 * `article1 <https://rpubs.com/karthikchawala/303796/>`_
-* `article2 <https://rpubs.com/Kallibek/459818/>`_;
-* `article3 <https://rpubs.com/gcctang1/271126/>`_;
-* `article4 <https://www.rpubs.com/michelsone/Research_Project_2/>`_.
+* `article2 <https://rpubs.com/Kallibek/459818/>`_
+* `article3 <https://rpubs.com/gcctang1/271126/>`_
+* `article4 <https://www.rpubs.com/michelsone/Research_Project_2/>`_
 
 Listed links are only for educational purposes.
 
