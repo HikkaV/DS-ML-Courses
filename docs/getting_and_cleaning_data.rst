@@ -38,7 +38,7 @@ Tidy Data
 Description of assignment
 =========================
 
-| In the first assignment we will work through the process of dates parsing using the dataset from `kaggle <https://www.kaggle.com/>`_. Basically 2 datasets containing issues with dates columns and in order to produce meaningful results and parse the data additional transformations (like converting strings to data) should be done. One will learn how to work with dataframes, visualize the data to check if applied functions are correct. One dataset is already have been processed (for example), and yet other one is expected to be processed by students.
+| In the first assignment we will work through the process of dates parsing using the dataset from `kaggle <https://www.kaggle.com/>`_. Basically there are 2 datasets containing issues concergning dates columns and in order to produce meaningful results and parse the data, additional transformations (like converting strings to data) should be done. The one will learn how to work with dataframes and visualize the data to check if applied functions are correct. In terms of example, one dataset is already processed, and yet other one is expected to be processed by students.
 
 .. note:: Some information is taken from `this <https://vita.had.co.nz/papers/tidy-data.pdf>`_ article.
 
