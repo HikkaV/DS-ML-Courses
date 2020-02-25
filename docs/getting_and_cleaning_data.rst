@@ -1,4 +1,4 @@
-Getting and cleanning data
+Getting and cleaning data
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 | One can admit that term Data Science consinst of 2 words: "Data" and "Science". It's not a coincidence, thus in this part we will focus on the first part - "Data".
