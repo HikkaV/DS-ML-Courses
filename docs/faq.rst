@@ -17,7 +17,7 @@ In order to run assignments on your own machine, you should do the following ste
 How can I contribute to the course to make it better?
 =====================================================
 
-We value every input that will make the course better, that's why everyone is encouraged to follow the discussion in the issues of offical `github <https://github.com/HikkaV/DS-ML-Courses/issues>`_ repository and make your merge requests.
+We value every input that will make the course better, that's why everyone is encouraged to follow the discussion in the issues of official `github <https://github.com/HikkaV/DS-ML-Courses/issues>`_ repository and make your merge requests.
 
 What is the exact list of courses which this course was built on?
 ====================================================================
@@ -25,4 +25,6 @@ What is the exact list of courses which this course was built on?
 1) `Applied Data Science with Python specialization from MIT university <https://www.coursera.org/specializations/data-science-python?skipBrowseRedirect=true&skipRecommendationsRedirect=true&tab=completed>`_ .
 2) `Deep Learning specialization <https://www.coursera.org/specializations/deep-learning?skipBrowseRedirect=true&skipRecommendationsRedirect=true&tab=completed#about>`_ .
 3) `Machine Learning course from Andrew Ng <https://www.coursera.org/learn/machine-learning#about>`_ .
+
+
 

@@ -4,7 +4,7 @@ l1 and l2 regularization
 Overfitting problem
 ===================
 
-In the previous lesson you were introduced to polynomial regression model. Despite the fact that this classifier did much better on both train and test data than the linear regression, we see a gap between its perfomance on train and test data. Actually, the mse score on train data was lower than on test one, which is a sign of *overfitting* to train data. Overfitting is a most frequently encountered problem in the supervised learning, that means that the model has a poor generalization towards new data. Overfitting occurs when our model learns very complex function in order to exactly *fit* all the data in training subset. Let's consider the following example : You want to train your model to classify if the object is shoes, but the only images you have in our training data - are the photos of sneakers. Thus, when your model sees boots, it will think that it's not shoes which is actually incorrect. One problem that can lead to overfitting,as defined in the highlited example, is the imbalanced dataset (when there are more samples in one class than in the other) or different distribution of data. Coming back to our problem, we experience overfitting because of the complexity of the decision boundary that was learned by our  algorirthm. The chart shown below describes the decision boundary of polynomial regression depending on different degree of polynom.
+In the previous lesson you were introduced to polynomial regression model. Despite the fact that this classifier did much better on both train and test data than the linear regression, we see a gap between its performance on train and test data. Actually, the mse score on train data was lower than on test one, which is a sign of *overfitting* to train data. Overfitting is a most frequently encountered problem in the supervised learning, that means that the model has a poor generalization towards new data. Overfitting occurs when our model learns very complex function in order to exactly *fit* all the data in training subset. Let's consider the following example : You want to train your model to classify if the object is shoes, but the only images you have in our training data - are the photos of sneakers. Thus, when your model sees boots, it will think that it's not shoes which is actually incorrect. One problem that can lead to overfitting,as defined in the highlighted example, is the imbalanced dataset (when there are more samples in one class than in the other) or different distribution of data. Coming back to our problem, we experience overfitting because of the complexity of the decision boundary that was learned by our  algorithm. The chart shown below describes the decision boundary of polynomial regression depending on different degree of polynomial.
 
 
 .. image:: images/overfitting_polynomial.png
@@ -18,7 +18,7 @@ Note how the decision boundary changes with complexity of the model (with increa
 Underfitting problem
 ====================
 
-| Along with overfitting exists the problem of *underfitting*. Underfitting referes to the problem of *a bad fit to the data* often referred to as high bias, that imples that our classifier is too simple to solve our task. In order to understand the trade off between overfitting and underfitting let's consider the chart shown below.
+| Along with overfitting exists the problem of *underfitting*. Underfitting refers to the problem of *a bad fit to the data* often referred to as high bias, that implies that our classifier is too simple to solve our task. In order to understand the trade off between overfitting and underfitting let's consider the chart shown below.
 
 .. image:: images/andrewng_comp.png
   :width: 800
@@ -41,7 +41,7 @@ Regularization
   :align: center
   :alt:  l1 and l2
 
-| L1 and l2 are often referred to as penalty that is applied to loss function. What the regularization does is making our classifier simpler to increase the generalization abilitty. Parameter alpha in the chart above is hyper parameter which is set manually, the gist of which is the power of regularization, the bigger alpha is - the more regularization will be applied and vice-versa. Regression that uses l1 regularization is called Lasso regression and the one that usess l2 - Ridge. Regularization is a key technique to solve overfitting.
+| L1 and l2 are often referred to as penalty that is applied to loss function. What the regularization does is making our classifier simpler to increase the generalization abilitty. Parameter alpha in the chart above is hyper parameter which is set manually, the gist of which is the power of regularization, the bigger alpha is - the more regularization will be applied and vice-versa. Regression that uses l1 regularization is called Lasso regression and the one that uses l2 - Ridge. Regularization is a key technique to solve overfitting.
 
 Feature normalization
 =====================
@@ -57,10 +57,12 @@ Feature normalization
 Description of assignment
 =========================
 
-| In todays assignment you will use l1 and l2 regularization to solve the problem of overfitting. You will firstly scale you data using MinMaxScaler, then train linear regression with both l1 and l2 regularization on the scaled data and finally perform regularization on the polynomial regression. 
+| In today's assignment you will use l1 and l2 regularization to solve the problem of overfitting. You will firstly scale you data using MinMaxScaler, then train linear regression with both l1 and l2 regularization on the scaled data and finally perform regularization on the polynomial regression. 
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/machine_learning/assignment_3_regression/assignment_3.ipynb
   :width: 150
   :align: right
   :alt:  Assignment 3
+
+

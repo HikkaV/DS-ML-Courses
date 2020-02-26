@@ -11,7 +11,7 @@ One of the simplest examples for understanding classification and  not so easy t
 Differences between classification and regression
 =================================================
 
-The main thing is that the algorithms you already acquainted with, can be used for both regression and classification. However to use them for classification, some changes are needed. Firstly, instead of producing the discrete number our algorithms have to produce some sign/probability that the data point belongs to one of the predefined classes. This can be achivied by converting the linear output into the probability which varies in the interval from 0 to 1 (*sigmoid* function) and then use some threshold function to decide which class it corresponds to (that is how the *logistic regression* works). 
+The main thing is that the algorithms you already acquainted with, can be used for both regression and classification. However to use them for classification, some changes are needed. Firstly, instead of producing the discrete number our algorithms have to produce some sign/probability that the data point belongs to one of the predefined classes. This can be achieved by converting the linear output into the probability which varies in the interval from 0 to 1 (*sigmoid* function) and then use some threshold function to decide which class it corresponds to (that is how the *logistic regression* works). 
 
 .. image:: images/LogClas.png
   :width: 800
@@ -34,7 +34,7 @@ We won't consider changes in other algorithms as decision trees, random forest a
 Classification metrics 
 ======================
 
-Speaking about classification it's mandatory to understand the data and pick the right tool for performance measurement. First of all, let's speak about such metric as *accuracy*. Accuracy is usually used in classification models when we deal with balanced dataset, meaning that each class has the same number of data points. To undestand the metrics we will define next notations (all the metrics scores are in the interval from 0 to 1):
+Speaking about classification it's mandatory to understand the data and pick the right tool for performance measurement. First of all, let's speak about such metric as *accuracy*. Accuracy is usually used in classification models when we deal with balanced dataset, meaning that each class has the same number of data points. To understand the metrics we will define next notations (all the metrics scores are in the interval from 0 to 1):
 
 * TP - true positives, number of samples related to the first (positive) class that were predicted correctly.
 * FP - false positives, number of samples related to the first (positive) class that were predicted incorrectly.
@@ -53,10 +53,10 @@ Accuracy is calculated in the following manner (number of all the correct predic
   :width: 800
   :alt: Accuracy
 
-It's preferred to use accuracy when dealing with balanced dataset, as if your dataset is imbalanced, the accuracy won't capture the real perfomance of the classifier. Suppose that you are to solve the next problem: 
-There is some data coresponding to user activity, the abnormal user activity as watching videos 24/7 - coresponds to the fraud one. You for sure won't have balanced classes, as much more people will have non fraud activity. Thus, using accuracy as the main metric you might be reassured by its score, whereas in fact you classifier performs bad.
+It's preferred to use accuracy when dealing with balanced dataset, as if your dataset is imbalanced, the accuracy won't capture the real performance of the classifier. Suppose that you are to solve the next problem: 
+There is some data corresponding to user activity, the abnormal user activity as watching videos 24/7 - corresponds to the fraud one. You for sure won't have balanced classes, as much more people will have non fraud activity. Thus, using accuracy as the main metric you might be reassured by its score, whereas in fact you classifier performs bad.
 
-One solution to the highlited problem is to use such metrics as *precision*, *recall* and *f1 score*. 
+One solution to the highlighted problem is to use such metrics as *precision*, *recall* and *f1 score*. 
 
 Precision is calculated in the following manner (number of correct predictions for the first (positive) class divided by total number of data points corresponding to first (positive) class) :
 
@@ -64,7 +64,7 @@ Precision is calculated in the following manner (number of correct predictions f
   :width: 800
   :alt: Precision
 
-Recall is calculated in the following manner (number of correct predictions for the first (positive) class divided by the sum of the previous value and number of inccorect predictions for the second (negative) class):
+Recall is calculated in the following manner (number of correct predictions for the first (positive) class divided by the sum of the previous value and number of incorrect predictions for the second (negative) class):
 
 .. image:: images/rec.png
   :width: 800
@@ -83,7 +83,7 @@ F1 score is calculated in the following manner (harmonic mean of precision and r
 Cross validation and greedy search
 ==================================
 
-The last topic for today is about a new method of validating and evaluating the performance of our classifier. So far we validated our algorithm only on a test set, which is actually just the portion of data that is randomly cut off our overall dataset. Actually this approach is bad as it relies on only one random subset of data, and it isn't enough to state that the algorithm is good or bad. Thus, for not very complicated classifiers and small-medium datasets the other approach named *cross validation is used*. The basic idea of cross validation is to train and test classifier on different subsets of data and then recieve the predefined score (f1, accuracy,precision, etc.) for each subset. After that the score can be averaged across subsets to get an adequate estimate of the algorithm's performance.
+The last topic for today is about a new method of validating and evaluating the performance of our classifier. So far we validated our algorithm only on a test set, which is actually just the portion of data that is randomly cut off our overall dataset. Actually this approach is bad as it relies on only one random subset of data, and it isn't enough to state that the algorithm is good or bad. Thus, for not very complicated classifiers and small-medium datasets the other approach named *cross validation is used*. The basic idea of cross validation is to train and test classifier on different subsets of data and then receive the predefined score (f1, accuracy,precision, etc.) for each subset. After that the score can be averaged across subsets to get an adequate estimate of the algorithm's performance.
 
 
 .. image:: images/crossval.png
@@ -103,3 +103,5 @@ Today, you will work hard to solve the classification problem from `kaggle <http
   :width: 150
   :align: right
   :alt:  Assignment 1
+
+

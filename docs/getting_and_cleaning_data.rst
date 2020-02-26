@@ -1,7 +1,7 @@
 Getting and cleaning data
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-| One can admit that term Data Science consinst of 2 words: "Data" and "Science". It's not a coincidence, thus in this part we will focus on the first part - "Data".
+| One can admit that term Data Science consist of 2 words: "Data" and "Science". It's not a coincidence, thus in this part we will focus on the first part - "Data".
 In the present times we can find data literally everywhere: from text messages on our phones to whether predictions on TV in different forms and presentations (video, audio, text, images, etc...). Data can be divided into two subcategories shown below.
 
 | Comparison of structured and unstructured data :
@@ -33,12 +33,12 @@ Tidy Data
 
 | It is only after data is tidy that it is useful for data analysis.
 
-| Other areas out side of tidy data include parsing variable types (dates and numbers), dealing with missing values, characters encodings, typos and outliers.
+| Other areas outside of tidy data include parsing variable types (dates and numbers), dealing with missing values, characters encodings, typos and outliers.
 
 Description of assignment
 =========================
 
-| In the first assignment we will work through the process of dates parsing using the dataset from `kaggle <https://www.kaggle.com/>`_. Basically there are 2 datasets containing issues concergning dates columns and in order to produce meaningful results and parse the data, additional transformations (like converting strings to data) should be done. The one will learn how to work with dataframes and visualize the data to check if applied functions are correct. In terms of example, one dataset is already processed, and yet other one is expected to be processed by students.
+| In the first assignment we will work through the process of dates parsing using the dataset from `kaggle <https://www.kaggle.com/>`_. Basically there are 2 datasets containing issues concerning dates columns and in order to produce meaningful results and parse the data, additional transformations (like converting strings to data) should be done. The one will learn how to work with dataframes and visualize the data to check if applied functions are correct. In terms of example, one dataset is already processed, and yet other one is expected to be processed by students.
 
 .. note:: Some information is taken from `this <https://vita.had.co.nz/papers/tidy-data.pdf>`_ article.
 
@@ -48,3 +48,5 @@ Description of assignment
   :width: 150
   :align: right
   :alt:  Assignment 1
+
+

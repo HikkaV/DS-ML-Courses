@@ -22,7 +22,7 @@ The inset above shows the example of rules (questions) the decision tree learned
   :alt: example decision trees
 
 
-There are different parameters that are used to control the complexity of tree like max_depth, max_leaf_nodes, min_samples_leaf and so on (you will see the effect of these parameters in the today's assignment). Thus by tunning them the one can reduce overfitting. The one key feature of decision trees is that they don't require specific scaling and normalization of data. The key parameters of decision tree is shown below.
+There are different parameters that are used to control the complexity of tree like max_depth, max_leaf_nodes, min_samples_leaf and so on (you will see the effect of these parameters in the today's assignment). Thus by tuning them the one can reduce overfitting. The one key feature of decision trees is that they don't require specific scaling and normalization of data. The key parameters of decision tree is shown below.
 
 .. image:: images/key_params_dt.png
   :width: 900
@@ -45,7 +45,7 @@ If we think about decision tree as about human, then the forest is a big amount 
 The prediction using random forest is conducted in the following way:
 
 * Make prediction for every tree in the forest.
-* Combine individual predictions (for regression : mean of individual treee predictions)
+* Combine individual predictions (for regression : mean of individual tree predictions)
 
 
 Unlike the decision tree, random forest is hard to interpret. The key parameters of random forest are shown below.
@@ -68,7 +68,7 @@ Like a random forest, GBDT uses an ensemble of decision trees to solve both regr
   :align: center
   :alt: gbdt
 
-GBDT often have a much higher perfomance than other decision tree based algorithms. The key parameters of GBDT are shown below.
+GBDT often have a much higher performance than other decision tree based algorithms. The key parameters of GBDT are shown below.
 
 
 .. image:: images/key_params_gbdt.png
@@ -83,10 +83,12 @@ GBDT often have a much higher perfomance than other decision tree based algorith
 Description of assignment
 =========================
 
-In today's assignment you will work with the models from decision trees family. You will use all the highlited algorithms to solve the problem of predicting housing prices. Note that this is the last assignment in regression module. We hope that this section was useful to you and you will continue exploring machine learning sphere further.
+In today's assignment you will work with the models from decision trees family. You will use all the highlighted algorithms to solve the problem of predicting housing prices. Note that this is the last assignment in regression module. We hope that this section was useful to you and you will continue exploring machine learning sphere further.
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/machine_learning/assignment_5_regression/assignment_5.ipynb
   :width: 150
   :align: right
   :alt:  Assignment 5
+
+

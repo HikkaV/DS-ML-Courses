@@ -4,7 +4,7 @@ Polynomial regression
 Key concepts of polynomial regression
 =====================================
 
-Recall that in the previous lesson we introduced you to linear regression classifier and used only two features to train the algorithm. Unfortunately, sometimes it's not enough to use only two features and the relationship between features and target can be not linear. In order to determine this relationship and understand the correlation between variables, people often use Pearson correlation coeficient which we have already introduced you in the data science section. Previously we used Pearson correlation only for two features (average number of rooms and weighted distances to five Boston employment centres) and we saw a positive score, meaning that those features have a forward correlation with target (price). But some features can also have the inverse correlation, meaning that when the feature value decreseas, the target value - increases and vice-versa. Sometimes due to complex relationships our features aren't linearly separable, thus we need a more complex function to fit the data. In this case the first thing to consider is polynomial regression. Polynomial regression is more about a sort of feature engineering than algorithm itself. Suppose that we have two feauteres, as represented on the inset below:
+Recall that in the previous lesson we introduced you to linear regression classifier and used only two features to train the algorithm. Unfortunately, sometimes it's not enough to use only two features and the relationship between features and target can be not linear. In order to determine this relationship and understand the correlation between variables, people often use Pearson correlation coefficient which we have already introduced you in the data science section. Previously we used Pearson correlation only for two features (average number of rooms and weighted distances to five Boston employment centres) and we saw a positive score, meaning that those features have a forward correlation with target (price). But some features can also have the inverse correlation, meaning that when the feature value decreases, the target value - increases and vice-versa. Sometimes due to complex relationships our features aren't linearly separable, thus we need a more complex function to fit the data. In this case the first thing to consider is polynomial regression. Polynomial regression is more about a sort of feature engineering than algorithm itself. Suppose that we have two features, as represented on the inset below:
 
 .. image:: images/twofeat.png
   :width: 150
@@ -50,3 +50,5 @@ In this assignment you will continue working with linear regression, but using a
   :width: 150
   :align: right
   :alt:  Assignment 2
+
+

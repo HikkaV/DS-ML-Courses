@@ -16,7 +16,7 @@ In order to calculate metrics for multiclassification we need to apply the next 
   :align: center
   :alt:  Multiclassification metrics
 
-While working with multiclassification, sometimes it's useful to examine the decision boundaries of the classifier, as it gives and idea of how our model separates different data instances. But if we work with high dimensional data, we can't simply visualize it in a human friendly manner. Thus, we need to reduce the dimension of our data to 2d or 3d. For this purposes *unsupervised learning* methods are used. However, :doc:`unsupervised learning <unsupervised>` is the other part of the course, we will use its algorithm called *PCA* to achive the exposed goal.  
+While working with multiclassification, sometimes it's useful to examine the decision boundaries of the classifier, as it gives and idea of how our model separates different data instances. But if we work with high dimensional data, we can't simply visualize it in a human friendly manner. Thus, we need to reduce the dimension of our data to 2d or 3d. For this purposes *unsupervised learning* methods are used. However, :doc:`unsupervised learning <unsupervised>` is the other part of the course, we will use its algorithm called *PCA* to achieve the exposed goal.  
 
 Description of assignment
 =========================
@@ -27,3 +27,5 @@ In your last assignment in classification section you will explore multiclassifi
   :width: 150
   :align: right
   :alt:  Assignment 3
+
+

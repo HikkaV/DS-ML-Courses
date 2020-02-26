@@ -1,7 +1,7 @@
 Reproducible research
 ^^^^^^^^^^^^^^^^^^^^^
 
-| We made a lot of work till now. But does it matter for other people if they did not understend what was done and how it was done?
+| We made a lot of work till now. But does it matter for other people if they did not understand what was done and how it was done?
 
 *"An article about computational science in a scientific publication is not the scholarship itself, it is merely advertising of the scholarship. The actual scholarship is the complete software development environment and the complete set of instructions which generated the figures."* - D. Donoho
 
@@ -20,7 +20,7 @@ Top reasons for making your research reproducible:
  * *Other people who want to do research in the field can really start from the current state of the art, instead of spending months trying to figure out what was exactly done in a certain paper. It is much easier to take up someone else’s work if documented code is also available.*
  * *It highly simplifies the task of comparing a new method to the existing methods. Results can be compared more easily, and one is also sure that the implementation is the correct one.*
 
-We encourage you to take a look on few articles that are publicly availiable on `rpubs <https://rpubs.com/>`_. All of them are using R as main data processing language, but for now we are interested only in the structure of research papers. 
+We encourage you to take a look on few articles that are publicly available on `rpubs <https://rpubs.com/>`_. All of them are using R as main data processing language, but for now we are interested only in the structure of research papers. 
 
 * `article1 <https://rpubs.com/karthikchawala/303796/>`_
 * `article2 <https://rpubs.com/Kallibek/459818/>`_
@@ -41,7 +41,7 @@ Here is common structural elements in most of shown articles:
 Description of assignment
 =========================
 
-We hope that you remember the data used for previous assignment. Despite the fact that all the assignments in this course follow reproducibility rules, we are going to prepare a .pdf article, that is prepared from a changed notebook of previous lesson, to get better sense of theory in this section. The skills you gained in this module of course are mandatory for any machine learning practitioner. What is really important is to understand the data you are working with and be able to use if effectivly for your purposes. Good luck.
+We hope that you remember the data used for previous assignment. Despite the fact that all the assignments in this course follow reproducibility rules, we are going to prepare a .pdf article, that is prepared from a changed notebook of previous lesson, to get better sense of theory in this section. The skills you gained in this module of course are mandatory for any machine learning practitioner. What is really important is to understand the data you are working with and be able to use if effectively for your purposes. Good luck.
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/HikkaV/DS-ML-Courses/blob/master/assignments/data_science/assignment_3_reproducible_research/reproducible_research.ipynb
@@ -50,4 +50,6 @@ We hope that you remember the data used for previous assignment. Despite the fac
   :alt:  Assignment 1
 
 `Pdf regarding research <https://raw.githubusercontent.com/HikkaV/VNTU-ML-Courses/master/assignments/data_science/files/reproducible_research.pdf>`_.
+
+
 

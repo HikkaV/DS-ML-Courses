@@ -5,7 +5,7 @@ Exploratory data analysis
 
 *"Asking the right questions is what separate Data Scientists that know ‘why’ from folks that only know what (tools and technologies)."* - Kayode Ayankoya
 
-| To be affective Exploratory Data Analysis should target specific aims in form of questions / hypothesis rised by Data Scientists.
+| To be effective Exploratory Data Analysis should target specific aims in form of questions / hypothesis raised by Data Scientists.
 
 Description of assignment
 =========================
@@ -21,3 +21,5 @@ In this section we will work through crime dataset taken from `kaggle <https://w
   :width: 150
   :align: right
   :alt:  Assignment 1
+
+
