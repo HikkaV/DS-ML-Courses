@@ -33,12 +33,12 @@ Tidy Data
 
 | It is only after data is tidy that it is useful for data analysis.
 
-| Other areas outside of tidy data include parsing variable types (dates and numbers), dealing with missing values, characters encodings, typos and outliers.
+| Other areas outside of tidy data include parsing variable types (dates and numbers), dealing with missing values, characters encoding, typos and outliers.
 
 Description of assignment
 =========================
 
-| In the first assignment we will work through the process of dates parsing using the dataset from `kaggle <https://www.kaggle.com/>`_. Basically there are 2 datasets containing issues concerning dates columns and in order to produce meaningful results and parse the data, additional transformations (like converting strings to data) should be done. The one will learn how to work with dataframes and visualize the data to check if applied functions are correct. In terms of example, one dataset is already processed, and yet other one is expected to be processed by students.
+| In the first assignment we will work through the process of dates parsing using the dataset from `kaggle <https://www.kaggle.com/>`_. Basically there are 2 datasets containing issues concerning dates columns and in order to produce meaningful results and parse the data, additional transformations (like converting strings to data) should be done. The one will learn how to work with data frames and visualize the data to check if applied functions are correct. In terms of example, one dataset is already processed, and yet other one is expected to be processed by students.
 
 .. note:: Some information is taken from `this <https://vita.had.co.nz/papers/tidy-data.pdf>`_ article.
 

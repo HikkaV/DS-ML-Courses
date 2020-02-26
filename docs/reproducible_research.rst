@@ -5,7 +5,7 @@ Reproducible research
 
 *"An article about computational science in a scientific publication is not the scholarship itself, it is merely advertising of the scholarship. The actual scholarship is the complete software development environment and the complete set of instructions which generated the figures."* - D. Donoho
 
-| Consider the situation when you made a great research regarding crimes in USA, published the article and then get tons of questions from followers regarding your dids. On the other side, if the one provided data, code, experiment flow and other information that is relevant to one's research, there will be much less questions for sure.
+| Consider the situation when you made a great research regarding crimes in USA, published the article and then get tons of questions from followers regarding your deeds. On the other side, if the one provided data, code, experiment flow and other information that is relevant to one's research, there will be much less questions for sure.
 
 
 Top reasons for making your research reproducible:
