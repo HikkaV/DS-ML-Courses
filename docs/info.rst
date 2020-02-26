@@ -10,7 +10,7 @@ Data science - is a field that uses scientific methods, processes, algorithms an
 
 .. image:: images/datascience.png
   :width: 800
-  :alt: Data scinece
+  :alt: Data science
 
 
 
@@ -82,9 +82,10 @@ Despite the fact that in this course you won't write the production ready code, 
 
 .. image:: images/lan_comparision.jpg
   :width: 800
-  :alt: Language comparision for 2019
+  :alt: Language comparison for 2019
 
 
-Based on the diagram shown below, Python is the most popular language at the moment, just analytics, nothing personal.
+Based on the diagram shown above, Python is the most popular language at the moment, just analytics, nothing personal.
+
 
 
