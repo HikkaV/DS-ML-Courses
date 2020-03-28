@@ -27,7 +27,7 @@ Now we still need to predict a target, but instead of 2 features we will use 5. 
   :align: center
   :alt:  Transformed y
 
-So what really using polynomial features does is transforming our problem to a higher dimensional regression space. In effect adding these extra polynomial features allows us a much richer set of complex function that we can use to fit to the data. By using polynomial features we simply allow polynomials to be fit to the training data instead of a simply straight line, but using the same optimization algorithm that minimizes mse score. 
+So what really using polynomial features do is transforming our problem to a higher dimensional regression space. In effect adding these extra polynomial features allows us a much richer set of complex function that we can use to fit to the data. By using polynomial features we simply allow polynomials to be fit to the training data instead of a simply straight line, but using the same optimization algorithm that minimizes mse score. 
 
 
 .. image:: images/comparison.png
