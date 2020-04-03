@@ -95,7 +95,7 @@ Having a chance to get an adequate estimate of each classifier, the one can then
 
 Description of assignment
 =========================
-Today, you will work hard to solve the classification problem from `kaggle <https://www.kaggle.com/>`_, as it's really useful to workout real problems and check for strength your knowledge, in addition it's super fun. In this first assignment, you will firsly make explortory data analysis, feature engineering and then use cross validation along with greedy search to find the best classifier.
+Today, you will work hard to solve the classification problem from `kaggle <https://www.kaggle.com/>`_, as it's really useful to workout real problems and check for strength your knowledge, in addition it's super fun. In this first assignment, you will firstly make exploratory data analysis, feature engineering and then use cross validation along with greedy search to find the best classifier.
 
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
