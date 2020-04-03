@@ -1,0 +1,17 @@
+
+
+v.1.2.0
+-----------
+1) More fixes of issues.
+2) Added quizes related to lessons.
+
+v.1.1.0
+-----------
+1) Fixed typos and small issues in lessons and assignments.
+
+
+v.1.0.0
+----------
+1) Added all the lessons.
+2) Created and added notebooks.
+3) Added logo.
