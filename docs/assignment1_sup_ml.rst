@@ -78,7 +78,7 @@ In this assignment you will work with boston housing prices dataset that is avai
    :alt: Quiz 1
 
 |
-
+|
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
   :target: https://colab.research.google.com/github/HikkaV/VNTU-ML-Courses/blob/master/assignments/machine_learning/assignment_1_regression/assignment_1.ipynb
