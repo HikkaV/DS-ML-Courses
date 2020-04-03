@@ -56,7 +56,7 @@ In this assignment you will continue working with linear regression, but using a
 |In order to check the gained knowledge, please carry on with the quiz related to this lesson.
 
 .. image:: images/icon.png
-   :target: https://ru.surveymonkey.com/r/HC86K8D
+   :target: https://en.surveymonkey.com/r/HC86K8D
    :width: 100
    :height: 100
    :align: right
