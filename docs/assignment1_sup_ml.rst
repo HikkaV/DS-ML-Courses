@@ -72,11 +72,12 @@ In this assignment you will work with boston housing prices dataset that is avai
 
 .. image:: images/icon.png
    :target: https://ru.surveymonkey.com/r/DXNQXZJ
-   :width: 150
-   :height: 100
+   :width: 50
+   :height: 50
    :align: right
    :alt: Quiz 1
 
+|
 
 
 .. image:: https://colab.research.google.com/assets/colab-badge.svg
