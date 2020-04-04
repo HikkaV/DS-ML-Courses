@@ -92,3 +92,13 @@ In today's assignment you will work with the models from decision trees family. 
   :alt:  Assignment 5
 
 
+| In order to check the gained knowledge, please carry on with the quiz related to this lesson.
+
+.. image:: images/icon.png
+   :target: https://en.surveymonkey.com/r/D9N97CT
+   :width: 100
+   :height: 100
+   :align: right
+   :alt: Quiz 1
+
+|

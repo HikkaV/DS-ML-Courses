@@ -29,4 +29,13 @@ In your last assignment in unsupervised learning section you will work with both
   :alt:  Assignment 2
 
 
+| In order to check the gained knowledge, please carry on with the quiz related to this lesson.
 
+.. image:: images/icon.png
+   :target: https://en.surveymonkey.com/r/YY8MM23
+   :width: 100
+   :height: 100
+   :align: right
+   :alt: Quiz 1
+
+|

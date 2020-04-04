@@ -79,7 +79,7 @@ In this assignment you will work with boston housing prices dataset that is avai
 
 |
 
-|In order to check the gained knowledge, please carry on with the quiz related to this lesson.
+| In order to check the gained knowledge, please carry on with the quiz related to this lesson.
 
 .. image:: images/icon.png
    :target: https://en.surveymonkey.com/r/DXNQXZJ
@@ -88,5 +88,6 @@ In this assignment you will work with boston housing prices dataset that is avai
    :align: right
    :alt: Quiz 1
 
+|
 
 

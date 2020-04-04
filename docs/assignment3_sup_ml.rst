@@ -67,7 +67,7 @@ Description of assignment
 
 |
 
-|In order to check the gained knowledge, please carry on with the quiz related to this lesson.
+| In order to check the gained knowledge, please carry on with the quiz related to this lesson.
 
 .. image:: images/icon.png
    :target: https://en.surveymonkey.com/r/HQNTZ65
@@ -75,3 +75,5 @@ Description of assignment
    :height: 100
    :align: right
    :alt: Quiz 3
+
+|

@@ -22,4 +22,14 @@ In this section we will work through crime dataset taken from `kaggle <https://w
   :align: right
   :alt:  Assignment 1
 
+| In order to check the gained knowledge, please carry on with the quiz related to this lesson.
+
+.. image:: images/icon.png
+   :target: https://en.surveymonkey.com/r/YCW8V27
+   :width: 100
+   :height: 100
+   :align: right
+   :alt: Quiz 1
+
+|
 

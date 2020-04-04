@@ -53,3 +53,14 @@ We hope that you remember the data used for previous assignment. Despite the fac
 
 
 
+| In order to check the gained knowledge, please carry on with the quiz related to this lesson.
+
+.. image:: images/icon.png
+   :target: https://en.surveymonkey.com/r/YCHTV3W
+   :width: 100
+   :height: 100
+   :align: right
+   :alt: Quiz 1
+
+|
+
