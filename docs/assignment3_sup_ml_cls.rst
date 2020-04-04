@@ -32,7 +32,7 @@ In your last assignment in classification section you will explore multiclassifi
 | In order to check the gained knowledge, please carry on with the quiz related to this lesson.
 
 .. image:: images/icon.png
-   :target: https://en.surveymonkey.com/r/Y8G9F9G
+   :target: https://en.surveymonkey.com/r/YLYQ3R3
    :width: 100
    :height: 100
    :align: right
